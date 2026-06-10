@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": ".*",
+        "command": "powershell -Command \"$dir='c:/Users/A1380/OneDrive/文档/仓库2/.claude/memory'; if(-not(Test-Path $dir)){mkdir $dir}; $ts=Get-Date -Format 'yyyy-MM-dd HH:mm:ss'; \\\"---\\\\nsession_end: $ts\\\\nproject: 仓库2\\\\n---\\\" | Out-File -Append -Encoding utf8 \\\"$dir/session_log.md\\\"\""
+      },
+      {
+        "matcher": ".*",
+        "command": "powershell -Command \"Add-Type -AssemblyName System.Windows.Forms; $notify = New-Object System.Windows.Forms.NotifyIcon; $notify.Icon = [System.Drawing.SystemIcons]::Information; $notify.BalloonTipTitle = 'Claude Code 任务完成'; $notify.BalloonTipText = '本次会话结束，检查一下完成的任务！'; $notify.Visible = $true; $notify.ShowBalloonTip(5000); Start-Sleep 6; $notify.Dispose()\""
+      }
+    ]
+  }
+}

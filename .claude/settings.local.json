@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude plugin *)",
+      "Bash(powershell -Command \"Stop-Process -Id 7972 -Force -ErrorAction SilentlyContinue; Start-Sleep 1; Remove-Item -Recurse -Force 'C:/Users/A1380/.claude/plugins/marketplaces/thedotmack' -ErrorAction Stop; Write-Output 'removed'\")",
+      "Bash(npm list *)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(powershell.exe -NoProfile -Command \"claude mcp add skills-master -- npx skills-master-mcp 2>&1\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\A1380\\.claude"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+[    1860ms] [LOG] [SSE] Connected @ http://localhost:37777/viewer-bundle.js:13
+[    1861ms] [LOG] [SSE] Initial load: {projects: 0} @ http://localhost:37777/viewer-bundle.js:13
+[    1861ms] [LOG] [SSE] Processing status: false Queue depth: 0 @ http://localhost:37777/viewer-bundle.js:13
