@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2026-06-10T20:18:43.252Z",
+  "timestamp": "2026-06-10T21:33:53.784Z",
   "root": "C:\\Users\\A1380\\OneDrive\\文档\\仓库2",
   "stats": {
     "totalFiles": 27,
@@ -505,6 +505,21 @@
       "size": 861,
       "hash": "3cc00d3044de",
       "lastModified": 1781122722915.9622,
+      "imports": [],
+      "importedBy": [],
+      "exports": [],
+      "symbols": [],
+      "rank": "D",
+      "centrality": 0
+    },
+    ".gitignore": {
+      "path": ".gitignore",
+      "role": "config",
+      "language": "",
+      "lines": 9,
+      "size": 59,
+      "hash": "117d810c97fd",
+      "lastModified": 1781127233408.611,
       "imports": [],
       "importedBy": [],
       "exports": [],
