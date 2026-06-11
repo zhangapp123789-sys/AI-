@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2026-06-11T13:18:39.771Z",
+  "timestamp": "2026-06-11T13:23:37.690Z",
   "root": "C:\\Users\\A1380\\OneDrive\\文档\\仓库2",
   "stats": {
     "totalFiles": 27,
@@ -565,6 +565,21 @@
       "size": 7250,
       "hash": "0f438d3bd926",
       "lastModified": 1781183919478.556,
+      "imports": [],
+      "importedBy": [],
+      "exports": [],
+      "symbols": [],
+      "rank": "D",
+      "centrality": 0
+    },
+    "股道人生_AI漫剧_第1-3集.md": {
+      "path": "股道人生_AI漫剧_第1-3集.md",
+      "role": "unknown",
+      "language": "markdown",
+      "lines": 299,
+      "size": 16054,
+      "hash": "2b703a9795a7",
+      "lastModified": 1781184217403.4475,
       "imports": [],
       "importedBy": [],
       "exports": [],

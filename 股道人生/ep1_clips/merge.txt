@@ -1,0 +1,8 @@
+file 'c:/Users/A1380/OneDrive/文档/仓库2/股道人生/ep1_clips/ep1_v01_化肥厂_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/股道人生/ep1_clips/ep1_v02_车间消息_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/股道人生/ep1_clips/ep1_v03_百万盈利_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/股道人生/ep1_clips/ep1_v04_深夜苦学_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/股道人生/ep1_clips/ep1_v05_抵押贷款_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/股道人生/ep1_clips/ep1_v06_杠杆一亿_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/股道人生/ep1_clips/ep1_v07_建仓买入_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/股道人生/ep1_clips/ep1_v08_悬念结尾_final.mp4'
