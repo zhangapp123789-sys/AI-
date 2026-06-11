@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2026-06-11T13:15:45.782Z",
+  "timestamp": "2026-06-11T13:18:39.771Z",
   "root": "C:\\Users\\A1380\\OneDrive\\文档\\仓库2",
   "stats": {
     "totalFiles": 27,
@@ -550,6 +550,21 @@
       "size": 7259,
       "hash": "a98ad3e1c790",
       "lastModified": 1781183745448.65,
+      "imports": [],
+      "importedBy": [],
+      "exports": [],
+      "symbols": [],
+      "rank": "D",
+      "centrality": 0
+    },
+    "角色系统_提示词模板.md": {
+      "path": "角色系统_提示词模板.md",
+      "role": "unknown",
+      "language": "markdown",
+      "lines": 203,
+      "size": 7250,
+      "hash": "0f438d3bd926",
+      "lastModified": 1781183919478.556,
       "imports": [],
       "importedBy": [],
       "exports": [],
