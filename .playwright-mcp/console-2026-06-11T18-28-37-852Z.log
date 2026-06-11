@@ -1,0 +1,15 @@
+[     118ms] [LOG] [Info] {avif: true, webp: true} @ https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/classify.35be66c1c1.js:0
+[     261ms] Uncaught (in promise) NavigationDuplicated: Avoided redundant navigation to current location: "/classify?from=manga_homepage&styles=997&areas=-1&status=-1&prices=-1&orders=0&special=0".
+    at Et (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/vendors.1b288434e6.js:1:1142112)
+    at Pt.confirmTransition (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/vendors.1b288434e6.js:1:1145008)
+    at Pt.transitionTo (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/vendors.1b288434e6.js:1:1144376)
+    at e.replace (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/vendors.1b288434e6.js:1:1147521)
+    at <anonymous> (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/vendors.1b288434e6.js:1:1152258)
+    at Yt.replace (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/vendors.1b288434e6.js:1:1152222)
+    at setRouteQuery (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/classify.35be66c1c1.js:0:31955)
+    at onWatchTagType (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/classify.35be66c1c1.js:0:31804)
+    at qn (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/vendors.1b288434e6.js:1:1225346)
+    at t.run (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/vendors.1b288434e6.js:1:1229878)
+    at Ln (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/vendors.1b288434e6.js:1:1222591)
+    at <anonymous> (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/vendors.1b288434e6.js:1:1226425)
+    at nr (https://s1.hdslb.com/bfs/manga-static/manga-pc/static/js/vendors.1b288434e6.js:1:1225825)

@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2026-06-11T13:23:37.690Z",
+  "timestamp": "2026-06-11T17:44:52.638Z",
   "root": "C:\\Users\\A1380\\OneDrive\\文档\\仓库2",
   "stats": {
     "totalFiles": 27,
@@ -580,6 +580,21 @@
       "size": 16054,
       "hash": "2b703a9795a7",
       "lastModified": 1781184217403.4475,
+      "imports": [],
+      "importedBy": [],
+      "exports": [],
+      "symbols": [],
+      "rank": "D",
+      "centrality": 0
+    },
+    "股道人生_角色设定库.md": {
+      "path": "股道人生_角色设定库.md",
+      "role": "unknown",
+      "language": "markdown",
+      "lines": 129,
+      "size": 3584,
+      "hash": "f8e35e9423ca",
+      "lastModified": 1781199892405.507,
       "imports": [],
       "importedBy": [],
       "exports": [],
