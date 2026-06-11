@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2026-06-11T08:50:21.672Z",
+  "timestamp": "2026-06-11T13:15:45.782Z",
   "root": "C:\\Users\\A1380\\OneDrive\\文档\\仓库2",
   "stats": {
     "totalFiles": 27,
@@ -535,6 +535,21 @@
       "size": 4755,
       "hash": "1070e51dcd40",
       "lastModified": 1781167821345.1199,
+      "imports": [],
+      "importedBy": [],
+      "exports": [],
+      "symbols": [],
+      "rank": "D",
+      "centrality": 0
+    },
+    "AI超级导演完全手册.md": {
+      "path": "AI超级导演完全手册.md",
+      "role": "unknown",
+      "language": "markdown",
+      "lines": 179,
+      "size": 7259,
+      "hash": "a98ad3e1c790",
+      "lastModified": 1781183745448.65,
       "imports": [],
       "importedBy": [],
       "exports": [],
