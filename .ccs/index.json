@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2026-06-10T21:33:53.784Z",
+  "timestamp": "2026-06-11T08:50:21.672Z",
   "root": "C:\\Users\\A1380\\OneDrive\\文档\\仓库2",
   "stats": {
     "totalFiles": 27,
@@ -520,6 +520,21 @@
       "size": 59,
       "hash": "117d810c97fd",
       "lastModified": 1781127233408.611,
+      "imports": [],
+      "importedBy": [],
+      "exports": [],
+      "symbols": [],
+      "rank": "D",
+      "centrality": 0
+    },
+    "能力清单.md": {
+      "path": "能力清单.md",
+      "role": "unknown",
+      "language": "markdown",
+      "lines": 136,
+      "size": 4755,
+      "hash": "1070e51dcd40",
+      "lastModified": 1781167821345.1199,
       "imports": [],
       "importedBy": [],
       "exports": [],
