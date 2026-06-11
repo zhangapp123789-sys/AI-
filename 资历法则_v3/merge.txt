@@ -1,0 +1,8 @@
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历法则_v3/scene01_化肥厂_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历法则_v3/scene02_股市消息_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历法则_v3/scene03_百万变115万_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历法则_v3/scene04_深夜苦学_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历法则_v3/scene05_抵押贷款_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历法则_v3/scene06_七倍杠杆_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历法则_v3/scene07_建仓买入_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历法则_v3/scene08_跌停崩盘_final.mp4'

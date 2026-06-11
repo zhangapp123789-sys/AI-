@@ -1,0 +1,8 @@
+file 'c:/Users/A1380/OneDrive/文档/仓库2/ep1_scene01.mp3'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/ep1_scene02.mp3'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/ep1_scene03.mp3'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/ep1_scene04.mp3'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/ep1_scene05.mp3'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/ep1_scene06.mp3'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/ep1_scene07.mp3'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/ep1_scene08.mp3'

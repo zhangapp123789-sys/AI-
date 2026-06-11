@@ -1,0 +1,277 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - generic [ref=e8]:
+        - button [ref=e9] [cursor=pointer]:
+          - img [ref=e11]
+        - button [ref=e13] [cursor=pointer]:
+          - img [ref=e15]
+        - heading "飞书云文档" [level=1] [ref=e17] [cursor=pointer]
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e22]: 用
+          - generic [ref=e24]: 用户976617的云文档
+        - generic [ref=e28]:
+          - button "与我分享" [ref=e30]:
+            - generic [ref=e31]: 与我分享
+            - img [ref=e33]
+          - list [ref=e37]:
+            - generic [ref=e39] [cursor=pointer]:
+              - generic [ref=e44]: 📢
+              - button "字字动画软件使用教程" [ref=e45]:
+                - generic [ref=e46]: 字字动画软件使用教程
+    - generic [ref=e47]:
+      - generic [ref=e50]:
+        - img [ref=e54] [cursor=pointer]
+        - generic [ref=e57]:
+          - generic [ref=e59]:
+            - generic [ref=e60]:
+              - generic [ref=e62]:
+                - generic [ref=e63]: 流年光影传媒
+                - img [ref=e64]
+              - paragraph [ref=e66]:
+                - generic [ref=e70]: 📢
+                - generic [ref=e71]: 字字动画软件使用教程
+            - paragraph [ref=e74]: 最新修改时间为06月09日
+          - generic [ref=e78]:
+            - button "登录/注册" [ref=e80] [cursor=pointer]
+            - button [ref=e81] [cursor=pointer]:
+              - img [ref=e83]
+      - generic [ref=e88]:
+        - img [ref=e91]
+        - list [ref=e99] [cursor=pointer]:
+          - listitem
+          - listitem [ref=e100]:
+            - link "📢 字字动画软件使用教程" [ref=e101]:
+              - /url: "#GDtsdciuxoeTQvxsE7fcDh7Rnfb"
+              - img [ref=e103]
+              - generic [ref=e105]:
+                - generic [ref=e107]: 📢
+                - text: 字字动画软件使用教程
+          - listitem [ref=e108]:
+            - link "教程梳理：字字动画B站：" [ref=e109]:
+              - /url: "#HHpadpBxXon0zxxVDBMctzfYnue"
+              - img [ref=e111]
+              - text: 教程梳理：字字动画B站：
+          - listitem [ref=e113]:
+            - link "🚀字字动画漫剧发行平台：711 万收益 + 2.2 亿播放，AI 漫剧变现新范式！" [ref=e114]:
+              - /url: "#H0HEdnKwioYfJTxoC6LcjNmknMg"
+              - img [ref=e116]
+              - text: 🚀字字动画漫剧发行平台：711 万收益 + 2.2 亿播放，AI 漫剧变现新范式！
+          - listitem [ref=e118]:
+            - link "一.前期准备（请新手用户认真学习！！）" [ref=e119]:
+              - /url: "#OYEOdruMdonLEOxtcJxcealmn3d"
+              - img [ref=e121]
+              - text: 一.前期准备（请新手用户认真学习！！）
+          - listitem [ref=e123]:
+            - link "1：【字字动画】" [ref=e124]:
+              - /url: "#PZh9dYXwNoU4uKxfb5NcxRlwnCh"
+              - img [ref=e126]
+              - text: 1：【字字动画】
+          - listitem [ref=e128]:
+            - link "云端" [ref=e129]:
+              - /url: "#UEbhdYwa8ogwsBxCgfMcpyFLnAb"
+              - img [ref=e131]
+              - text: 云端
+          - listitem [ref=e133]:
+            - link "1.算力云平台：里面显卡量大管饱，有5090显卡出图快人一步，视频更进一步，推荐值4颗🌟https://www.codewithgpu.com/app/market" [ref=e134]:
+              - /url: "#MaOld6Niuob1pMxdHeAceB1rnMc"
+              - img [ref=e136]
+              - text: 1.算力云平台：里面显卡量大管饱，有5090显卡出图快人一步，视频更进一步，推荐值4颗🌟https://www.codewithgpu.com/app/market
+          - listitem [ref=e138]:
+            - link "2.无阶未来 ：夜间更优惠" [ref=e139]:
+              - /url: "#KyvidaLIGod8d2xKlZLcPAlsnWg"
+              - img [ref=e141]
+              - text: 2.无阶未来 ：夜间更优惠
+          - listitem [ref=e143]:
+            - link "https://vylai.com/register?code=77113442" [ref=e144]:
+              - /url: "#RDRrdHsBxo6X5Fxg6nqc1UR2n9d"
+              - img [ref=e146]
+              - text: https://vylai.com/register?code=77113442
+          - listitem [ref=e148]:
+            - link "AI资源仓_风格与提示词展示厅" [ref=e149]:
+              - /url: "#VuSVdI1s8ocrH2x3xZ6cC8UfnKg"
+              - img [ref=e151]
+              - text: AI资源仓_风格与提示词展示厅
+          - listitem [ref=e153]:
+            - link "字字动画-算力云vip福利群" [ref=e154]:
+              - /url: "#KIsYdmBQ4o2mWPxsoB7cqqwmnjd"
+              - img [ref=e156]
+              - text: 字字动画-算力云vip福利群
+          - listitem [ref=e158]:
+            - link "二：配置需求" [ref=e159]:
+              - /url: "#XTCndvDIqot5KKxAcuocK1lznif"
+              - img [ref=e161]
+              - text: 二：配置需求
+          - listitem [ref=e163]:
+            - link "本地电脑：目前仅支持 Windows 10及以上，有无独立显卡都是可以使用。" [ref=e164]:
+              - /url: "#Vvv2dWBWioXz4zxReRAc9WPsnyf"
+              - img [ref=e166]
+              - text: 本地电脑：目前仅支持 Windows 10及以上，有无独立显卡都是可以使用。
+          - listitem [ref=e168]:
+            - link "具体使用方法，请看上述视频教程/B站搜索字字动画观看教程。" [ref=e169]:
+              - /url: "#VIgwdjkSco2zIgxgQdkcD6F3nWd"
+              - img [ref=e171]
+              - text: 具体使用方法，请看上述视频教程/B站搜索字字动画观看教程。
+          - listitem [ref=e173]:
+            - link "三、软件使用教程B站搜索-字字动画，因为软件免费，希望大家可以一键三连，帮助作者推广，谢谢各位。" [ref=e174]:
+              - /url: "#IwNRdjOxco05wrx8h06cx0CMncd"
+              - img [ref=e176]
+              - text: 三、软件使用教程B站搜索-字字动画，因为软件免费，希望大家可以一键三连，帮助作者推广，谢谢各位。
+          - listitem [ref=e178]:
+            - link "字字动画合作伙伴-全国-线下基地-招代理中" [ref=e179]:
+              - /url: "#Yp4IdngKaoaLtdx36Hkcytconbd"
+              - img [ref=e181]
+              - text: 字字动画合作伙伴-全国-线下基地-招代理中
+          - listitem [ref=e183]:
+            - link "字字动画全国培训基地（按大区排序）" [ref=e184]:
+              - /url: "#Wy7WdKWaHoYDDrxKBbrcIwnWnId"
+              - img [ref=e186]
+              - text: 字字动画全国培训基地（按大区排序）
+          - listitem [ref=e188]:
+            - link "一、华南地区" [ref=e189]:
+              - /url: "#Plckd1da8opssMxPjJLcHmdWnJb"
+              - img [ref=e191]
+              - text: 一、华南地区
+          - listitem [ref=e193]:
+            - link "字字动画广东培训基地-添翼传媒" [ref=e194]:
+              - /url: "#G8wYdXprxoUrhtx3wVfcnHS3nOb"
+              - img [ref=e196]
+              - text: 字字动画广东培训基地-添翼传媒
+          - listitem [ref=e198]:
+            - link "二、华中地区" [ref=e199]:
+              - /url: "#COVTdadZtocR1CxpA6scu0v7nB9"
+              - img [ref=e201]
+              - text: 二、华中地区
+          - listitem [ref=e203]:
+            - link "河南-洛阳-字字动画培训基地-墨承文化" [ref=e204]:
+              - /url: "#PBWudDe0OovVhZxEDQTcjBXenzd"
+              - img [ref=e206]
+              - text: 河南-洛阳-字字动画培训基地-墨承文化
+          - listitem [ref=e208]:
+            - link "三、华东地区" [ref=e209]:
+              - /url: "#EplIdbX2DoCUpXxFWVCcjhyfni7"
+              - img [ref=e211]
+              - text: 三、华东地区
+          - listitem [ref=e213]:
+            - link "浙江-杭州-字字动画基地" [ref=e214]:
+              - /url: "#BhrMdOeC5oVwoqxmdSAccqRNn8f"
+              - img [ref=e216]
+              - text: 浙江-杭州-字字动画基地
+          - listitem [ref=e218]:
+            - link "江苏-宿迁-字字动画培训基地" [ref=e219]:
+              - /url: "#F6zvdlJFCotzPOxxUTTcDzaVncb"
+              - img [ref=e221]
+              - text: 江苏-宿迁-字字动画培训基地
+          - listitem [ref=e223]:
+            - link "江西-南昌-字字动画培圳基地" [ref=e224]:
+              - /url: "#ENmXdZTJToJlw4xU3DEcstcanOe"
+              - img [ref=e226]
+              - text: 江西-南昌-字字动画培圳基地
+          - listitem [ref=e228]:
+            - link "山东-济南-字字动画培训基地" [ref=e229]:
+              - /url: "#OLQddDlmUo69jrx4pKecOkAynOe"
+              - img [ref=e231]
+              - text: 山东-济南-字字动画培训基地
+          - listitem [ref=e233]:
+            - link "四、西南地区" [ref=e234]:
+              - /url: "#C8bddso0FoOXuZxNSamcloqSnDd"
+              - img [ref=e236]
+              - text: 四、西南地区
+          - listitem [ref=e238]:
+            - link "重庆-字字动画培训基地" [ref=e239]:
+              - /url: "#L5pgdgDpaoW2o0xKfRBcYYrYnRc"
+              - img [ref=e241]
+              - text: 重庆-字字动画培训基地
+          - listitem [ref=e243]:
+            - link "四川-成都-字字动画培训基地-灵境星河动漫" [ref=e244]:
+              - /url: "#ZByfdg171oGhFgxrOS2cUflPnKV"
+              - img [ref=e246]
+              - text: 四川-成都-字字动画培训基地-灵境星河动漫
+          - listitem [ref=e248]:
+            - link "五、华北地区" [ref=e249]:
+              - /url: "#DcJudrmHSote5HxTvCfcz0jrnzf"
+              - img [ref=e251]
+              - text: 五、华北地区
+          - listitem [ref=e253]:
+            - link "六、西北地区" [ref=e254]:
+              - /url: "#Q7kDdhA9bo20wYxDWvUcvLTentg"
+              - img [ref=e256]
+              - text: 六、西北地区
+          - listitem [ref=e258]:
+            - link "陕西-字字动画培圳基地" [ref=e259]:
+              - /url: "#NtOwdQRfuoFETLxc0IPcpJ87n25"
+              - img [ref=e261]
+              - text: 陕西-字字动画培圳基地
+          - listitem
+        - generic [ref=e265]:
+          - generic [ref=e274]:
+            - generic [ref=e275]:
+              - heading "📢 字字动画软件使用教程" [level=1] [ref=e277]:
+                - generic [ref=e279]: 📢
+                - generic [ref=e281]: 字字动画软件使用教程
+              - generic [ref=e286]: 6月9日修改
+            - generic [ref=e289]:
+              - generic [ref=e294]:
+                - generic [ref=e298]: 👍
+                - generic [ref=e300]:
+                  - generic [ref=e307]: ▫ 合作方向：招募省级代理
+                  - generic [ref=e313]: "---"
+                  - generic [ref=e319]: 专业制作 2D 动漫、3D 国漫、仿真人剧情漫，多风格全覆盖！高效出片，
+                  - generic [ref=e325]: 全平台适配发布，合作咨询👉微信：C511711188
+                  - generic [ref=e331]: "---"
+                  - generic [ref=e337]: ▫ 对接人：稳如泰山（孤城）
+                  - generic [ref=e343]: ▫ 联系方式：V3028328
+                  - generic [ref=e349]: ▫ 核心优势：已解锁 Seedance 2.0 API 商用级全量使用权限
+                  - generic [ref=e355]: ▫ 服务范围：精品漫剧、商业广告全链路承制服务
+                  - generic [ref=e361]: ▫ 合作需求：诚寻稳定甲方、API 深度战略合作伙伴，共建行业顶级内容生产链路
+                  - generic [ref=e367]: 💡 备注：全国多基地联动，可提供本地化配合，合作详情可直接对接上述联系人
+              - generic [ref=e377]:
+                - generic [ref=e381]: 👍
+                - generic [ref=e383]:
+                  - generic [ref=e389]: 主端+画布版+网页版+小说网+发行平台+算力网
+                  - generic [ref=e400]: 软件主体(必需下载)
+                  - generic [ref=e406]:
+                    - link "https://pan.quark.cn/s/15ea2e408153" [ref=e409] [cursor=pointer]:
+                      - /url: https://pan.quark.cn/s/15ea2e408153
+                    - text: 最新的包带codex
+                  - generic [ref=e420]: 字字画布
+                  - link "https://pan.quark.cn/s/015c8e931f6e" [ref=e429] [cursor=pointer]:
+                    - /url: https://pan.quark.cn/s/015c8e931f6e
+                  - generic [ref=e435]: 字字网页版
+                  - link "https://zizifeng.typetale.top/app" [ref=e444] [cursor=pointer]:
+                    - /url: https://zizifeng.typetale.top/app
+                  - generic [ref=e450]: 字字小说网
+                  - link "https://book.typetale.top/" [ref=e459] [cursor=pointer]:
+                    - /url: https://book.typetale.top/
+                  - generic [ref=e465]: 字字算力平台
+                  - link "https://www.zizidonghua.com" [ref=e474] [cursor=pointer]:
+                    - /url: https://www.zizidonghua.com
+                  - generic [ref=e480]: 字字发行平台
+                  - link "https://typetale.top/publish/welcome" [ref=e489] [cursor=pointer]:
+                    - /url: https://typetale.top/publish/welcome
+                  - generic [ref=e495]: 字字动画index-tts2整合包
+          - generic [ref=e500]:
+            - generic [ref=e501]: 评论（0）
+            - img [ref=e505] [cursor=pointer]
+          - button [ref=e510] [cursor=pointer]:
+            - img [ref=e512]
+    - generic:
+      - generic:
+        - generic:
+          - menu:
+            - generic:
+              - generic:
+                - menuitem "帮助中心":
+                  - generic:
+                    - generic:
+                      - img
+                  - generic: 帮助中心
+              - generic:
+                - menuitem "效率指南":
+                  - generic:
+                    - generic:
+                      - img
+                  - generic: 效率指南
+        - img [ref=e518] [cursor=pointer]
+  - textbox [active] [ref=e521]

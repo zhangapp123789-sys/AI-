@@ -1,0 +1,8 @@
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_clips/c01.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_clips/c02.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_clips/c03.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_clips/c04.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_clips/c05.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_clips/c06.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_clips/c07.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_clips/c08.mp4'

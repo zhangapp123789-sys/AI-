@@ -1,0 +1,936 @@
+[    2661ms] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://lf-package-cn.feishucdn.com/obj/feishu-static/ccm-vmok/web/lang/docxSpa/zh-CN.88871465454313ee.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ https://wcnzyhmsp2tw.feishu.cn/wiki/FwqMwdBgni0aKDkxY6rcEdaWnjc:0
+[    2661ms] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://lf-package-cn.feishucdn.com/obj/feishu-static/ccm-vmok/web/lang/docxSpa/zh-CN.88871465454313ee.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ https://wcnzyhmsp2tw.feishu.cn/wiki/FwqMwdBgni0aKDkxY6rcEdaWnjc:0
+[    2662ms] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/lang/zh-CN.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ https://wcnzyhmsp2tw.feishu.cn/wiki/FwqMwdBgni0aKDkxY6rcEdaWnjc:0
+[    4313ms] Uncaught (in promise) Error: PermFail
+    at E (https://lf-package-cn.feishucdn.com/obj/feishu-static/ccm-vmok/web/static/js/docx_app_spa.c466ace7.js:189:175855)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/ccm-vmok/web/static/js/docx_app_spa.c466ace7.js:216:45792)
+[    4313ms] Uncaught (in promise) Error: PermFail
+    at E (https://lf-package-cn.feishucdn.com/obj/feishu-static/ccm-vmok/web/static/js/docx_app_spa.c466ace7.js:189:175855)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/ccm-vmok/web/static/js/docx_app_spa.c466ace7.js:216:45792)
+[    5275ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[    6679ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6680ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6680ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6681ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6681ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6681ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6681ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6682ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6684ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6684ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6684ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6684ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6684ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6684ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6684ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6684ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6684ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6684ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6684ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6686ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6687ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6687ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6688ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6688ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6688ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6688ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6688ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6688ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    6727ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://wcnzyhmsp2tw.feishu.cn/facade/search/pull_search_settings?search_setting_type=1:0
+[    7093ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://project.feishu.cn/goapi/v1/user/assets/login_assets:0
+[    7316ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    7445ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    7626ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-lark-api.feishu.cn/accounts/web/user?app_id=12&_t=1781129308814:0
+[    7900ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8014ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8448ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8456ms] Uncaught (in promise) Error: PermFail
+    at E (https://lf-package-cn.feishucdn.com/obj/feishu-static/ccm-vmok/web/static/js/docx_app_spa.c466ace7.js:189:175855)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/ccm-vmok/web/static/js/docx_app_spa.c466ace7.js:216:45792)
+[    8484ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8582ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8590ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8593ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8595ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8702ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8712ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8714ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8790ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8837ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    8837ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    8837ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    8847ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    8875ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[    9714ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9715ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[    9736ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   10109ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   10134ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   10225ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   10228ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   10230ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   10230ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   10231ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   10322ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   10326ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   10393ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   10398ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   10454ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   10483ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   10747ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   10747ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   11755ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12760ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12761ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12761ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12761ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12761ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12761ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12761ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12761ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   12762ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13066ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13066ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13066ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13066ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13066ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13066ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13066ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13066ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13066ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13067ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13067ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13067ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13067ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13067ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13067ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13067ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13067ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13067ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13067ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13067ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13366ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13366ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13366ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13366ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13367ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13367ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13367ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13367ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13367ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13367ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13368ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13368ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13368ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13368ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13368ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13369ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13369ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13369ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13369ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13652ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13652ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13652ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13652ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13653ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13653ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13653ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13653ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   13653ms] Uncaught (in promise) Error: [di] cannot inject async dependency without @Async for "BlockViewAfterSlotType"
+    at resolveAsync (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1454576)
+    at resolveProvider (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1458971)
+    at i (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1455834)
+    at resolveOne (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1453411)
+    at <anonymous> (https://lf-package-cn.feishucdn.com/obj/feishu-static/eesz/bear/docx/module/ee/docs/docx/1.0.17.4600/index_merged_es6.js:6:1460377)
+[   25957ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   26027ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   26091ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   26168ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[   26726ms] [ERROR] The script resource is behind a redirect, which is disallowed. @ :0
+[   35186ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[   46559ms] [ERROR] The script resource is behind a redirect, which is disallowed. @ :0
+[   46563ms] [ERROR] The script resource is behind a redirect, which is disallowed. @ :0
+[   46664ms] [ERROR] The script resource is behind a redirect, which is disallowed. @ :0
+[   46730ms] [ERROR] The script resource is behind a redirect, which is disallowed. @ :0
+[   65170ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[   95188ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  125198ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  155203ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  185183ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  215211ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  245189ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  275887ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  305192ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  310206ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[  310219ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[  310277ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[  310287ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[  310343ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[  310363ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[  310416ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[  310435ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://internal-api-lark-api.feishu.cn/im/gateway/:0
+[  335181ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  365171ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  395186ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  425195ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0
+[  455196ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://internal-api-security.feishu.cn/lark/scs/compliance/ping:0

@@ -1,0 +1,8 @@
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_v4/s01_化肥厂_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_v4/s02_消息_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_v4/s03_盈利_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_v4/s04_苦学_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_v4/s05_抵押_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_v4/s06_杠杆_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_v4/s07_建仓_final.mp4'
+file 'c:/Users/A1380/OneDrive/文档/仓库2/资历_v4/s08_跌停_final.mp4'
