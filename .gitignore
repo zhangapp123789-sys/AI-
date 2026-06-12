@@ -6,3 +6,7 @@
 AI漫剧素材/
 clips/
 .env
+
+node_modules/
+.DS_Store
+*.log

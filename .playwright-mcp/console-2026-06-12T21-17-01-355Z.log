@@ -1,0 +1,3 @@
+[    6732ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://raphael.app/zh:0
+[   11354ms] [ERROR] Not signed in with the identity provider. @ https://raphael.app/zh?mode=video:0
+[   12585ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://accounts.google.com/gsi/client:87

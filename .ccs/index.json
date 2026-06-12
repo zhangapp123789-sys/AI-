@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2026-06-11T19:04:20.709Z",
+  "timestamp": "2026-06-12T21:16:42.071Z",
   "root": "C:\\Users\\A1380\\OneDrive\\文档\\仓库2",
   "stats": {
     "totalFiles": 27,
@@ -625,6 +625,21 @@
       "size": 4053,
       "hash": "e0fa0193580b",
       "lastModified": 1781204660484.3691,
+      "imports": [],
+      "importedBy": [],
+      "exports": [],
+      "symbols": [],
+      "rank": "D",
+      "centrality": 0
+    },
+    "第3集_提示词_可直接粘贴.md": {
+      "path": "第3集_提示词_可直接粘贴.md",
+      "role": "unknown",
+      "language": "markdown",
+      "lines": 64,
+      "size": 2712,
+      "hash": "fe6d91818072",
+      "lastModified": 1781299001858.9712,
       "imports": [],
       "importedBy": [],
       "exports": [],

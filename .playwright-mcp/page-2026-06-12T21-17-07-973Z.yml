@@ -1,0 +1,994 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link "Raphael AI Raphael AI" [ref=e6] [cursor=pointer]:
+        - /url: /zh
+        - img "Raphael AI" [ref=e7]
+        - generic [ref=e8]: Raphael AI
+      - navigation "Main" [ref=e10]:
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - button "AI 图片" [ref=e14] [cursor=pointer]:
+              - generic [ref=e15]: AI 图片
+              - img [ref=e16]
+          - listitem [ref=e18]:
+            - button "AI 视频" [ref=e19] [cursor=pointer]:
+              - generic [ref=e20]: AI 视频
+              - img [ref=e21]
+          - listitem [ref=e23]:
+            - button "AI 图片编辑器" [ref=e24] [cursor=pointer]:
+              - generic [ref=e25]: AI 图片编辑器
+              - img [ref=e26]
+          - listitem [ref=e28]:
+            - button "AI 模型" [ref=e29] [cursor=pointer]:
+              - generic [ref=e30]: AI 模型
+              - img [ref=e31]
+          - listitem [ref=e33]:
+            - button "AI 工具" [ref=e34] [cursor=pointer]:
+              - generic [ref=e35]: AI 工具
+              - img [ref=e36]
+          - listitem [ref=e38]:
+            - link "定价" [ref=e39] [cursor=pointer]:
+              - /url: /zh/pricing
+    - generic [ref=e41]:
+      - button "简体中文" [ref=e42] [cursor=pointer]:
+        - img [ref=e43]
+      - button "登录" [ref=e46] [cursor=pointer]
+  - main [ref=e47]:
+    - generic [ref=e48]:
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - img "Raphael Logo" [ref=e54]
+          - heading "免费无限制 AI 图片生成器 - Raphael AI" [level=1] [ref=e55]:
+            - generic [ref=e56]: 免费无限制 AI 图片生成器
+            - generic [ref=e57]:
+              - text: "-"
+              - generic [ref=e58]: Raphael AI
+        - paragraph [ref=e59]: 在几秒钟内创建令人惊叹的 AI 生成图像 · 全球首个无限免费 AI 图像生成器
+        - generic [ref=e60]:
+          - generic [ref=e61]: 100% 免费
+          - generic [ref=e62]: 由 GPT Image 2 提供支持
+          - generic [ref=e63]: 无需登录
+          - generic [ref=e64]: 无限生成
+      - generic [ref=e65]:
+        - generic [ref=e67]:
+          - button "AI 图片" [pressed] [ref=e68] [cursor=pointer]:
+            - img [ref=e69]
+            - generic [ref=e73]: AI 图片
+          - button "AI 视频" [ref=e74] [cursor=pointer]:
+            - img [ref=e75]
+            - generic [ref=e80]: AI 视频
+        - generic [ref=e82]:
+          - generic [ref=e87]:
+            - generic [ref=e89]:
+              - button "参考图 最多 3 张" [ref=e94] [cursor=pointer]:
+                - generic [ref=e96]:
+                  - img [ref=e97]
+                  - generic [ref=e98]: 参考图
+                  - generic [ref=e99]: 最多 3 张
+              - generic [ref=e100]:
+                - generic [ref=e101]: 描述提示词
+                - generic [ref=e102]:
+                  - generic [ref=e104]:
+                    - switch "AI 加强" [checked] [ref=e105] [cursor=pointer]
+                    - generic [ref=e106]: AI 加强
+                  - textbox "描述提示词" [ref=e107]:
+                    - /placeholder: 描述您想生成的图像...
+            - generic [ref=e110]:
+              - generic [ref=e111]:
+                - generic [ref=e114]:
+                  - generic [ref=e115]:
+                    - button "关闭提示" [ref=e116] [cursor=pointer]:
+                      - img [ref=e117]
+                    - generic [ref=e120]:
+                      - generic [ref=e121]:
+                        - img [ref=e122]
+                        - generic [ref=e124]: 在这里切换不同模型
+                      - paragraph [ref=e125]: 试试 GPT Image 2，以更低成本生成清晰效果。
+                  - 'button "Model: Raphael Basic" [ref=e128] [cursor=pointer]':
+                    - generic [ref=e132]: Raphael Basic
+                    - img [ref=e133]
+                - generic [ref=e135]:
+                  - button "1:1 4 自动" [ref=e137] [cursor=pointer]:
+                    - generic [ref=e142]: 1:1
+                    - generic [ref=e144]:
+                      - img [ref=e145]
+                      - generic [ref=e149]: "4"
+                    - generic [ref=e151]: 自动
+                    - img [ref=e152]
+                  - generic [ref=e154] [cursor=pointer]:
+                    - generic [ref=e155]: 快速模式
+                    - switch "快速模式" [ref=e156]
+                  - button "高级选项" [ref=e158] [cursor=pointer]:
+                    - img [ref=e159]
+              - generic [ref=e165]:
+                - button "生成" [disabled] [ref=e166]:
+                  - generic [ref=e168]: 生成
+                - generic [ref=e169]: Free
+          - generic [ref=e171]:
+            - heading "汇聚全球顶尖 AI 模型" [level=2] [ref=e172]
+            - region [ref=e173]:
+              - generic [ref=e175]:
+                - group [ref=e176]:
+                  - link "Seedance 2.0 震撼首发 动作顺滑，舞蹈和人物运动更自然。" [ref=e177] [cursor=pointer]:
+                    - /url: /zh/seedance-2
+                    - generic [ref=e180]:
+                      - generic [ref=e181]:
+                        - heading "Seedance 2.0" [level=3] [ref=e182]
+                        - generic [ref=e183]: 震撼首发
+                      - paragraph [ref=e184]: 动作顺滑，舞蹈和人物运动更自然。
+                - group [ref=e185]:
+                  - link "GPT Image 2 编辑推荐 精准提示词、清晰文字、产品构图。" [ref=e186] [cursor=pointer]:
+                    - /url: /zh/gpt-image-2
+                    - generic [ref=e189]:
+                      - generic [ref=e190]:
+                        - heading "GPT Image 2" [level=3] [ref=e191]
+                        - generic [ref=e192]: 编辑推荐
+                      - paragraph [ref=e193]: 精准提示词、清晰文字、产品构图。
+                - group [ref=e194]:
+                  - link "Nano Banana 2 多参考图改造，风格控制更快。" [ref=e195] [cursor=pointer]:
+                    - /url: /zh/nano-banana-2
+                    - generic [ref=e198]:
+                      - heading "Nano Banana 2" [level=3] [ref=e200]
+                      - paragraph [ref=e201]: 多参考图改造，风格控制更快。
+                - group [ref=e202]:
+                  - link "Seedream 5.0 电影感写实，光影更有张力。" [ref=e203] [cursor=pointer]:
+                    - /url: /zh/seedream-5
+                    - generic [ref=e206]:
+                      - heading "Seedream 5.0" [level=3] [ref=e208]
+                      - paragraph [ref=e209]: 电影感写实，光影更有张力。
+                - group [ref=e210]:
+                  - link "Nano Banana Gemini Nano Banana 图像模型，登录即可上手。" [ref=e211] [cursor=pointer]:
+                    - /url: /zh/nano-banana
+                    - generic [ref=e214]:
+                      - heading "Nano Banana" [level=3] [ref=e216]
+                      - paragraph [ref=e217]: Gemini Nano Banana 图像模型，登录即可上手。
+                - group [ref=e218]:
+                  - link "Nano Banana Pro 4K 高清出图与高级图像编辑。" [ref=e219] [cursor=pointer]:
+                    - /url: /zh/nano-banana-pro
+                    - generic [ref=e222]:
+                      - heading "Nano Banana Pro" [level=3] [ref=e224]
+                      - paragraph [ref=e225]: 4K 高清出图与高级图像编辑。
+                - group [ref=e226]:
+                  - link "Seedream 4.5 2K / 4K 高清生成与参考图编辑。" [ref=e227] [cursor=pointer]:
+                    - /url: /zh/seedream-4-5
+                    - generic [ref=e230]:
+                      - heading "Seedream 4.5" [level=3] [ref=e232]
+                      - paragraph [ref=e233]: 2K / 4K 高清生成与参考图编辑。
+                - group [ref=e234]:
+                  - link "Raphael Image Pro 稳定人像与品牌视觉。" [ref=e235] [cursor=pointer]:
+                    - /url: /zh/raphael-image-model
+                    - generic [ref=e238]:
+                      - heading "Raphael Image Pro" [level=3] [ref=e240]
+                      - paragraph [ref=e241]: 稳定人像与品牌视觉。
+                - group [ref=e242]:
+                  - link "Veo 3.1 原生音频、4K 输出，电影级真实感。" [ref=e243] [cursor=pointer]:
+                    - /url: /zh/veo-3-1
+                    - generic [ref=e246]:
+                      - heading "Veo 3.1" [level=3] [ref=e248]
+                      - paragraph [ref=e249]: 原生音频、4K 输出，电影级真实感。
+                - group [ref=e250]:
+                  - link "Kling 3.0 动作更强，运镜更有冲击力。" [ref=e251] [cursor=pointer]:
+                    - /url: /zh/kling-3
+                    - generic [ref=e254]:
+                      - heading "Kling 3.0" [level=3] [ref=e256]
+                      - paragraph [ref=e257]: 动作更强，运镜更有冲击力。
+                - group [ref=e258]:
+                  - link "Raphael Video Pro 镜头更稳定，适合商业短视频。" [ref=e259] [cursor=pointer]:
+                    - /url: /zh/raphael-video-pro
+                    - generic [ref=e262]:
+                      - heading "Raphael Video Pro" [level=3] [ref=e264]
+                      - paragraph [ref=e265]: 镜头更稳定，适合商业短视频。
+              - generic:
+                - button "Previous slide" [disabled]:
+                  - img
+                  - generic: Previous slide
+                - button "Next slide" [ref=e266] [cursor=pointer]:
+                  - img
+                  - generic [ref=e267]: Next slide
+          - generic [ref=e268]:
+            - generic [ref=e269]:
+              - heading "获取灵感" [level=2] [ref=e270]
+              - paragraph [ref=e271]: 从 Raphael 的创作中获取灵感
+            - generic [ref=e273]:
+              - button "Example 1 style is lite brite art, luminous and colorful designs, pixelated compositions,... 点击使用" [ref=e274] [cursor=pointer]:
+                - generic [ref=e275]:
+                  - img "Example 1" [ref=e276]
+                  - generic [ref=e277]:
+                    - paragraph [ref=e278]: style is lite brite art, luminous and colorful designs, pixelated compositions,...
+                    - generic [ref=e279]:
+                      - generic [ref=e280]: 点击使用
+                      - img [ref=e281]
+              - button "Example 2 high quality sci-fi illustration. a lone astronaut in a spacesuit stands on a da... 点击使用" [ref=e283] [cursor=pointer]:
+                - generic [ref=e284]:
+                  - img "Example 2" [ref=e285]
+                  - generic [ref=e286]:
+                    - paragraph [ref=e287]: high quality sci-fi illustration. a lone astronaut in a spacesuit stands on a da...
+                    - generic [ref=e288]:
+                      - generic [ref=e289]: 点击使用
+                      - img [ref=e290]
+              - button "Example 3 A hyper-detailed action scene set on a windswept mountain slope two mountain go... 点击使用" [ref=e292] [cursor=pointer]:
+                - generic [ref=e293]:
+                  - img "Example 3" [ref=e294]
+                  - generic [ref=e295]:
+                    - paragraph [ref=e296]: A hyper-detailed action scene set on a windswept mountain slope two mountain go...
+                    - generic [ref=e297]:
+                      - generic [ref=e298]: 点击使用
+                      - img [ref=e299]
+              - button "Example 4 Blonde, beautiful woman wearing a cropped satin top, seen from an elevated angle... 点击使用" [ref=e301] [cursor=pointer]:
+                - generic [ref=e302]:
+                  - img "Example 4" [ref=e303]
+                  - generic [ref=e304]:
+                    - paragraph [ref=e305]: Blonde, beautiful woman wearing a cropped satin top, seen from an elevated angle...
+                    - generic [ref=e306]:
+                      - generic [ref=e307]: 点击使用
+                      - img [ref=e308]
+              - button "Example 5 dark fantasy, high quality ultra detailed anime illustration, 1girl with very lo... 点击使用" [ref=e310] [cursor=pointer]:
+                - generic [ref=e311]:
+                  - img "Example 5" [ref=e312]
+                  - generic [ref=e313]:
+                    - paragraph [ref=e314]: dark fantasy, high quality ultra detailed anime illustration, 1girl with very lo...
+                    - generic [ref=e315]:
+                      - generic [ref=e316]: 点击使用
+                      - img [ref=e317]
+              - button "Example 6 high quality anime illustration, surreal night scene. in the center a girl with... 点击使用" [ref=e319] [cursor=pointer]:
+                - generic [ref=e320]:
+                  - img "Example 6" [ref=e321]
+                  - generic [ref=e322]:
+                    - paragraph [ref=e323]: high quality anime illustration, surreal night scene. in the center a girl with...
+                    - generic [ref=e324]:
+                      - generic [ref=e325]: 点击使用
+                      - img [ref=e326]
+              - button "Example 7 <lora:cat_looking_at_itself_in_mirror-000006v4:1>, animalization, mirror, photo... 点击使用" [ref=e328] [cursor=pointer]:
+                - generic [ref=e329]:
+                  - img "Example 7" [ref=e330]
+                  - generic [ref=e331]:
+                    - paragraph [ref=e332]: <lora:cat_looking_at_itself_in_mirror-000006v4:1>, animalization, mirror, photo...
+                    - generic [ref=e333]:
+                      - generic [ref=e334]: 点击使用
+                      - img [ref=e335]
+              - button "Example 8 high quality sci-fi illustration. a lone astronaut in a spacesuit stands on a da... 点击使用" [ref=e337] [cursor=pointer]:
+                - generic [ref=e338]:
+                  - img "Example 8" [ref=e339]
+                  - generic [ref=e340]:
+                    - paragraph [ref=e341]: high quality sci-fi illustration. a lone astronaut in a spacesuit stands on a da...
+                    - generic [ref=e342]:
+                      - generic [ref=e343]: 点击使用
+                      - img [ref=e344]
+              - button "Example 9 Cutting-edge quantum computing research laboratory with pristine white surfaces... 点击使用" [ref=e346] [cursor=pointer]:
+                - generic [ref=e347]:
+                  - img "Example 9" [ref=e348]
+                  - generic [ref=e349]:
+                    - paragraph [ref=e350]: Cutting-edge quantum computing research laboratory with pristine white surfaces...
+                    - generic [ref=e351]:
+                      - generic [ref=e352]: 点击使用
+                      - img [ref=e353]
+              - button "Example 10 A close-up of a face adorned with intricate black and blue patterns. The left si... 点击使用" [ref=e355] [cursor=pointer]:
+                - generic [ref=e356]:
+                  - img "Example 10" [ref=e357]
+                  - generic [ref=e358]:
+                    - paragraph [ref=e359]: A close-up of a face adorned with intricate black and blue patterns. The left si...
+                    - generic [ref=e360]:
+                      - generic [ref=e361]: 点击使用
+                      - img [ref=e362]
+              - button "Example 11 3D cartoon style underwater scene, high quality render. in clear blue-green wate... 点击使用" [ref=e364] [cursor=pointer]:
+                - generic [ref=e365]:
+                  - img "Example 11" [ref=e366]
+                  - generic [ref=e367]:
+                    - paragraph [ref=e368]: 3D cartoon style underwater scene, high quality render. in clear blue-green wate...
+                    - generic [ref=e369]:
+                      - generic [ref=e370]: 点击使用
+                      - img [ref=e371]
+              - button "Example 12 high quality illustration with an ink painting / oriental atmosphere. night scen... 点击使用" [ref=e373] [cursor=pointer]:
+                - generic [ref=e374]:
+                  - img "Example 12" [ref=e375]
+                  - generic [ref=e376]:
+                    - paragraph [ref=e377]: high quality illustration with an ink painting / oriental atmosphere. night scen...
+                    - generic [ref=e378]:
+                      - generic [ref=e379]: 点击使用
+                      - img [ref=e380]
+              - button "Example 13 A sophisticated magazine cover portrait of a ginger-haired young model whose tho... 点击使用" [ref=e382] [cursor=pointer]:
+                - generic [ref=e383]:
+                  - img "Example 13" [ref=e384]
+                  - generic [ref=e385]:
+                    - paragraph [ref=e386]: A sophisticated magazine cover portrait of a ginger-haired young model whose tho...
+                    - generic [ref=e387]:
+                      - generic [ref=e388]: 点击使用
+                      - img [ref=e389]
+              - button "Example 14 high quality humorous photo in a warm-lit American sports bar / restaurant. in t... 点击使用" [ref=e391] [cursor=pointer]:
+                - generic [ref=e392]:
+                  - img "Example 14" [ref=e393]
+                  - generic [ref=e394]:
+                    - paragraph [ref=e395]: high quality humorous photo in a warm-lit American sports bar / restaurant. in t...
+                    - generic [ref=e396]:
+                      - generic [ref=e397]: 点击使用
+                      - img [ref=e398]
+              - button "Example 15 high quality fantasy concept art in warm orange tones. an endless cracked wastel... 点击使用" [ref=e400] [cursor=pointer]:
+                - generic [ref=e401]:
+                  - img "Example 15" [ref=e402]
+                  - generic [ref=e403]:
+                    - paragraph [ref=e404]: high quality fantasy concept art in warm orange tones. an endless cracked wastel...
+                    - generic [ref=e405]:
+                      - generic [ref=e406]: 点击使用
+                      - img [ref=e407]
+              - button "Example 16 ultra realistic 3D render, humorous scene in a McDonald’s style fast food restau... 点击使用" [ref=e409] [cursor=pointer]:
+                - generic [ref=e410]:
+                  - img "Example 16" [ref=e411]
+                  - generic [ref=e412]:
+                    - paragraph [ref=e413]: ultra realistic 3D render, humorous scene in a McDonald’s style fast food restau...
+                    - generic [ref=e414]:
+                      - generic [ref=e415]: 点击使用
+                      - img [ref=e416]
+          - generic [ref=e419]:
+            - generic [ref=e420]:
+              - heading "尝试一种风格" [level=2] [ref=e421]
+              - generic [ref=e422]:
+                - button "上一张" [ref=e423] [cursor=pointer]:
+                  - img
+                - button "下一张" [ref=e424] [cursor=pointer]:
+                  - img
+            - generic [ref=e425]:
+              - link "AI 素描肖像生成器 AI 素描肖像生成器" [ref=e426] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=sketch
+                - img "AI 素描肖像生成器" [ref=e428]
+                - generic [ref=e430]: AI 素描肖像生成器
+              - link "AI 节日肖像生成器 AI 节日肖像生成器" [ref=e431] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=holiday-portrait
+                - img "AI 节日肖像生成器" [ref=e433]
+                - generic [ref=e435]: AI 节日肖像生成器
+              - link "AI 黑白戏剧肖像 AI 黑白戏剧肖像" [ref=e436] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=dramatic
+                - img "AI 黑白戏剧肖像" [ref=e438]
+                - generic [ref=e440]: AI 黑白戏剧肖像
+              - link "AI 毛绒玩偶生成器 AI 毛绒玩偶生成器" [ref=e441] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=plushie
+                - img "AI 毛绒玩偶生成器" [ref=e443]
+                - generic [ref=e445]: AI 毛绒玩偶生成器
+              - link "AI 棒球摇头公仔生成器 AI 棒球摇头公仔生成器" [ref=e446] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=baseball-bobblehead
+                - img "AI 棒球摇头公仔生成器" [ref=e448]
+                - generic [ref=e450]: AI 棒球摇头公仔生成器
+              - link "AI 3D 时尚娃娃生成器 AI 3D 时尚娃娃生成器" [ref=e451] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=3d-glam-doll
+                - img "AI 3D 时尚娃娃生成器" [ref=e453]
+                - generic [ref=e455]: AI 3D 时尚娃娃生成器
+              - link "AI 涂鸦肖像生成器 AI 涂鸦肖像生成器" [ref=e456] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=doodle
+                - img "AI 涂鸦肖像生成器" [ref=e458]
+                - generic [ref=e460]: AI 涂鸦肖像生成器
+              - link "AI 墨线插画生成器 AI 墨线插画生成器" [ref=e461] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=inkwork
+                - img "AI 墨线插画生成器" [ref=e463]
+                - generic [ref=e465]: AI 墨线插画生成器
+              - link "AI 鱼眼肖像生成器 AI 鱼眼肖像生成器" [ref=e466] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=fisheye
+                - img "AI 鱼眼肖像生成器" [ref=e468]
+                - generic [ref=e470]: AI 鱼眼肖像生成器
+              - link "AI 波普艺术肖像生成器 AI 波普艺术肖像生成器" [ref=e471] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=pop-art
+                - img "AI 波普艺术肖像生成器" [ref=e473]
+                - generic [ref=e475]: AI 波普艺术肖像生成器
+              - link "AI 圣诞挂饰照片生成器 AI 圣诞挂饰照片生成器" [ref=e476] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=ornament
+                - img "AI 圣诞挂饰照片生成器" [ref=e478]
+                - generic [ref=e480]: AI 圣诞挂饰照片生成器
+              - link "AI 糖霜饼干艺术生成器 AI 糖霜饼干艺术生成器" [ref=e481] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=sugar-cookie
+                - img "AI 糖霜饼干艺术生成器" [ref=e483]
+                - generic [ref=e485]: AI 糖霜饼干艺术生成器
+              - link "AI 文艺学院风肖像生成器 AI 文艺学院风肖像生成器" [ref=e486] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=art-school
+                - img "AI 文艺学院风肖像生成器" [ref=e488]
+                - generic [ref=e490]: AI 文艺学院风肖像生成器
+            - generic [ref=e491]:
+              - heading "发现新内容" [level=2] [ref=e492]
+              - generic [ref=e493]:
+                - button "上一张" [ref=e494] [cursor=pointer]:
+                  - img
+                - button "下一张" [ref=e495] [cursor=pointer]:
+                  - img
+            - generic [ref=e496]:
+              - link "AI 节日贺卡生成器 AI 节日贺卡生成器" [ref=e497] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=create-a-holiday-card
+                - img "AI 节日贺卡生成器" [ref=e499]
+                - generic [ref=e500]: AI 节日贺卡生成器
+              - link "AI 韩流偶像写真生成器 AI 韩流偶像写真生成器" [ref=e501] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=k-pop-star
+                - img "AI 韩流偶像写真生成器" [ref=e503]
+                - generic [ref=e504]: AI 韩流偶像写真生成器
+              - link "AI 珍珠耳环少女肖像 AI 珍珠耳环少女肖像" [ref=e505] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=girl-with-a-pearl
+                - img "AI 珍珠耳环少女肖像" [ref=e507]
+                - generic [ref=e508]: AI 珍珠耳环少女肖像
+              - link "AI 专辑封面生成器 AI 专辑封面生成器" [ref=e509] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=create-an-album-cover
+                - img "AI 专辑封面生成器" [ref=e511]
+                - generic [ref=e512]: AI 专辑封面生成器
+              - link "AI 穿搭生成器 AI 穿搭生成器" [ref=e513] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=style-me
+                - img "AI 穿搭生成器" [ref=e515]
+                - generic [ref=e516]: AI 穿搭生成器
+              - link "AI 产品图生成器 AI 产品图生成器" [ref=e517] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=create-a-professional-product-photo
+                - img "AI 产品图生成器" [ref=e519]
+                - generic [ref=e520]: AI 产品图生成器
+              - link "AI 房间改造生成器 AI 房间改造生成器" [ref=e521] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=redecorate-my-room
+                - img "AI 房间改造生成器" [ref=e523]
+                - generic [ref=e524]: AI 房间改造生成器
+              - link "AI 同款穿搭生成器 AI 同款穿搭生成器" [ref=e525] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=give-us-a-matching-outfit
+                - img "AI 同款穿搭生成器" [ref=e527]
+                - generic [ref=e528]: AI 同款穿搭生成器
+              - link "AI 职业形象照生成器 AI 职业形象照生成器" [ref=e529] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=create-a-professional-job-photo
+                - img "AI 职业形象照生成器" [ref=e531]
+                - generic [ref=e532]: AI 职业形象照生成器
+              - link "AI 背景路人移除 AI 背景路人移除" [ref=e533] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=remove-people-in-the-background
+                - img "AI 背景路人移除" [ref=e535]
+                - generic [ref=e536]: AI 背景路人移除
+              - link "AI 老照片修复 AI 老照片修复" [ref=e537] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=restore-an-old-photo
+                - img "AI 老照片修复" [ref=e539]
+                - generic [ref=e540]: AI 老照片修复
+              - link "AI 钥匙扣生成器 AI 钥匙扣生成器" [ref=e541] [cursor=pointer]:
+                - /url: /zh/image-templates?templateId=turn-into-a-keychain
+                - img "AI 钥匙扣生成器" [ref=e543]
+                - generic [ref=e544]: AI 钥匙扣生成器
+      - generic [ref=e546]:
+        - generic [ref=e547]:
+          - heading "Raphael AI 图像生成器的主要特点" [level=2] [ref=e548]
+          - paragraph [ref=e549]: 体验下一代 AI 图像生成——Raphael AI 图像生成器——强大、免费且注重隐私。
+        - generic [ref=e550]:
+          - generic [ref=e551]:
+            - img [ref=e553]
+            - heading "零成本创作" [level=3] [ref=e556]
+            - paragraph [ref=e557]: Raphael AI 图像生成器是世界上第一个完全免费的 AI 图像生成器，没有生成次数限制或注册要求。
+          - generic [ref=e558]:
+            - img [ref=e560]
+            - heading "最先进的质量" [level=3] [ref=e563]
+            - paragraph [ref=e564]: Raphael AI 图像生成器中的场景感知智能路由会选择当前最合适的模型，以提供具有卓越细节和风格控制的照片级图像。
+          - generic [ref=e565]:
+            - img [ref=e567]
+            - heading "高级文本理解" [level=3] [ref=e571]
+            - paragraph [ref=e572]: Raphael AI 图像生成器提供卓越的文本到图像功能，能够准确解释复杂的提示和文本叠加功能。
+          - generic [ref=e573]:
+            - img [ref=e575]
+            - heading "闪电般快速的生成" [level=3] [ref=e577]
+            - paragraph [ref=e578]: 优化的推理管道确保 Raphael AI 图像生成器在不影响质量的情况下快速生成图像。
+          - generic [ref=e579]:
+            - img [ref=e581]
+            - heading "增强的隐私保护" [level=3] [ref=e583]
+            - paragraph [ref=e584]: 我们采用最小化数据收集原则：未登录请求通常仅作临时处理；登录后仅保存提供账户、历史记录、订阅和安全能力所必需的信息。
+          - generic [ref=e585]:
+            - img [ref=e587]
+            - heading "多风格支持" [level=3] [ref=e593]
+            - paragraph [ref=e594]: Raphael AI 图像生成器可以创建各种艺术风格的图像，从照片级真实感、动漫、油画到数字艺术。
+      - generic [ref=e596]:
+        - generic [ref=e598]: 高级功能
+        - heading "Raphael AI 图像生成器的先进功能" [level=2] [ref=e599]
+        - paragraph [ref=e600]: 体验 Raphael AI 图像生成器与 AI Image Editor 带来的强大创作能力
+        - generic [ref=e601]:
+          - tablist [ref=e605]:
+            - tab "闪电般快速的生成" [selected] [ref=e606] [cursor=pointer]:
+              - img [ref=e608]
+              - generic [ref=e610]: 闪电般快速的生成
+            - tab "精确的创意控制" [ref=e611] [cursor=pointer]:
+              - img [ref=e613]
+              - generic [ref=e619]: 精确的创意控制
+            - tab "多功能风格引擎" [ref=e620] [cursor=pointer]:
+              - img [ref=e622]
+              - generic [ref=e624]: 多功能风格引擎
+          - tabpanel "闪电般快速的生成" [ref=e625]:
+            - generic [ref=e626]:
+              - generic [ref=e627]:
+                - generic [ref=e629]: 速度
+                - heading "闪电般快速的生成" [level=3] [ref=e630]
+                - paragraph [ref=e631]: Raphael AI 图像生成器采用先进的图像生成引擎，以出色速度创建专业级图像。非常适合快速原型设计和创意工作流程，它能在几秒钟内生成令人惊艳的视觉效果，同时保持卓越质量。
+                - link "Try Raphael AI" [ref=e633] [cursor=pointer]:
+                  - /url: /zh
+              - img "生成的 AI 艺术作品展示" [ref=e636]
+      - generic [ref=e638]:
+        - generic [ref=e639]:
+          - generic [ref=e641]: 用户评价
+          - heading "用户对 Raphael AI 的评价" [level=2] [ref=e642]
+          - paragraph [ref=e643]: 看看创作者如何使用 Raphael AI 和 AI Image Editor 提高生产力
+        - generic [ref=e644]:
+          - generic [ref=e646]:
+            - generic [ref=e647]:
+              - generic [ref=e648]: Raphael AI 图像生成器将我的创作效率提高了 10 倍！图像质量超乎想象，完全满足商业要求。
+              - generic [ref=e649]:
+                - img "Sophie Miller" [ref=e650]
+                - generic [ref=e651]:
+                  - generic [ref=e652]: Sophie Miller
+                  - generic [ref=e653]: 自由职业设计师
+            - generic [ref=e654]:
+              - generic [ref=e655]: 借助 AI Image Editor 功能，我可以精确控制每一个细节。Raphael AI 是市场上最强大的 AI 图像生成器！
+              - generic [ref=e656]:
+                - img "Michael Chen" [ref=e657]
+                - generic [ref=e658]:
+                  - generic [ref=e659]: Michael Chen
+                  - generic [ref=e660]: 创意总监
+            - generic [ref=e661]:
+              - generic [ref=e662]: 作为一名电子商务经理，Raphael AI 图像生成器帮助我快速生成产品展示图片，生成效果比其他 AI 工具好得多！
+              - generic [ref=e663]:
+                - img "Sarah Wang" [ref=e664]
+                - generic [ref=e665]:
+                  - generic [ref=e666]: Sarah Wang
+                  - generic [ref=e667]: 电子商务经理
+            - generic [ref=e668]:
+              - generic [ref=e669]: Raphael AI 图像生成器将我的创作效率提高了 10 倍！图像质量超乎想象，完全满足商业要求。
+              - generic [ref=e670]:
+                - img "Sophie Miller" [ref=e671]
+                - generic [ref=e672]:
+                  - generic [ref=e673]: Sophie Miller
+                  - generic [ref=e674]: 自由职业设计师
+            - generic [ref=e675]:
+              - generic [ref=e676]: 借助 AI Image Editor 功能，我可以精确控制每一个细节。Raphael AI 是市场上最强大的 AI 图像生成器！
+              - generic [ref=e677]:
+                - img "Michael Chen" [ref=e678]
+                - generic [ref=e679]:
+                  - generic [ref=e680]: Michael Chen
+                  - generic [ref=e681]: 创意总监
+            - generic [ref=e682]:
+              - generic [ref=e683]: 作为一名电子商务经理，Raphael AI 图像生成器帮助我快速生成产品展示图片，生成效果比其他 AI 工具好得多！
+              - generic [ref=e684]:
+                - img "Sarah Wang" [ref=e685]
+                - generic [ref=e686]:
+                  - generic [ref=e687]: Sarah Wang
+                  - generic [ref=e688]: 电子商务经理
+          - generic [ref=e690]:
+            - generic [ref=e691]:
+              - generic [ref=e692]: AI Image Editor 让我能够保持品牌风格的一致性。Raphael AI 图像生成器真正理解我的需求。
+              - generic [ref=e693]:
+                - img "David Liu" [ref=e694]
+                - generic [ref=e695]:
+                  - generic [ref=e696]: David Liu
+                  - generic [ref=e697]: 品牌设计师
+            - generic [ref=e698]:
+              - generic [ref=e699]: Raphael AI 图像生成器的速度令人惊叹！几秒钟内生成专业质量的图像，大大缩短了项目周期。
+              - generic [ref=e700]:
+                - img "Emma Zhang" [ref=e701]
+                - generic [ref=e702]:
+                  - generic [ref=e703]: Emma Zhang
+                  - generic [ref=e704]: 内容创作者
+            - generic [ref=e705]:
+              - generic [ref=e706]: 它的细节表现无与伦比。作为一名游戏开发者，Raphael AI 图像生成器已成为我们概念设计的首选工具。
+              - generic [ref=e707]:
+                - img "Kevin Wu" [ref=e708]
+                - generic [ref=e709]:
+                  - generic [ref=e710]: Kevin Wu
+                  - generic [ref=e711]: 游戏概念艺术家
+            - generic [ref=e712]:
+              - generic [ref=e713]: AI Image Editor 让我能够保持品牌风格的一致性。Raphael AI 图像生成器真正理解我的需求。
+              - generic [ref=e714]:
+                - img "David Liu" [ref=e715]
+                - generic [ref=e716]:
+                  - generic [ref=e717]: David Liu
+                  - generic [ref=e718]: 品牌设计师
+            - generic [ref=e719]:
+              - generic [ref=e720]: Raphael AI 图像生成器的速度令人惊叹！几秒钟内生成专业质量的图像，大大缩短了项目周期。
+              - generic [ref=e721]:
+                - img "Emma Zhang" [ref=e722]
+                - generic [ref=e723]:
+                  - generic [ref=e724]: Emma Zhang
+                  - generic [ref=e725]: 内容创作者
+            - generic [ref=e726]:
+              - generic [ref=e727]: 它的细节表现无与伦比。作为一名游戏开发者，Raphael AI 图像生成器已成为我们概念设计的首选工具。
+              - generic [ref=e728]:
+                - img "Kevin Wu" [ref=e729]
+                - generic [ref=e730]:
+                  - generic [ref=e731]: Kevin Wu
+                  - generic [ref=e732]: 游戏概念艺术家
+          - generic [ref=e734]:
+            - generic [ref=e735]:
+              - generic [ref=e736]: 我尝试了很多工具，但 Raphael AI 图像生成器及其 AI Image Editor 功能确实改变了游戏规则！
+              - generic [ref=e737]:
+                - img "Jessica Li" [ref=e738]
+                - generic [ref=e739]:
+                  - generic [ref=e740]: Jessica Li
+                  - generic [ref=e741]: 数字营销专家
+            - generic [ref=e742]:
+              - generic [ref=e743]: Raphael AI 图像生成器让广告创意落地变得非常简单。它生成的图像达到了商业摄影标准。
+              - generic [ref=e744]:
+                - img "Tom Anderson" [ref=e745]
+                - generic [ref=e746]:
+                  - generic [ref=e747]: Tom Anderson
+                  - generic [ref=e748]: 广告创意总监
+            - generic [ref=e749]:
+              - generic [ref=e750]: 作为一名独立开发者，Raphael AI 的 API 集成非常友好。它是市场上最好的 AI 图像生成器解决方案！
+              - generic [ref=e751]:
+                - img "Nina Patel" [ref=e752]
+                - generic [ref=e753]:
+                  - generic [ref=e754]: Nina Patel
+                  - generic [ref=e755]: 全栈开发人员
+            - generic [ref=e756]:
+              - generic [ref=e757]: 我尝试了很多工具，但 Raphael AI 图像生成器及其 AI Image Editor 功能确实改变了游戏规则！
+              - generic [ref=e758]:
+                - img "Jessica Li" [ref=e759]
+                - generic [ref=e760]:
+                  - generic [ref=e761]: Jessica Li
+                  - generic [ref=e762]: 数字营销专家
+            - generic [ref=e763]:
+              - generic [ref=e764]: Raphael AI 图像生成器让广告创意落地变得非常简单。它生成的图像达到了商业摄影标准。
+              - generic [ref=e765]:
+                - img "Tom Anderson" [ref=e766]
+                - generic [ref=e767]:
+                  - generic [ref=e768]: Tom Anderson
+                  - generic [ref=e769]: 广告创意总监
+            - generic [ref=e770]:
+              - generic [ref=e771]: 作为一名独立开发者，Raphael AI 的 API 集成非常友好。它是市场上最好的 AI 图像生成器解决方案！
+              - generic [ref=e772]:
+                - img "Nina Patel" [ref=e773]
+                - generic [ref=e774]:
+                  - generic [ref=e775]: Nina Patel
+                  - generic [ref=e776]: 全栈开发人员
+      - generic [ref=e778]:
+        - generic [ref=e779]:
+          - heading "选择您的套餐" [level=2] [ref=e780]
+          - paragraph [ref=e781]: 免费图像包含水印。升级以获得干净的输出、更快的生成和商业用途。
+        - generic [ref=e782]:
+          - generic [ref=e784]:
+            - button "每月" [ref=e785] [cursor=pointer]
+            - button "每年 节省 50%" [ref=e786] [cursor=pointer]:
+              - text: 每年
+              - generic [ref=e787]: 节省 50%
+            - button "积分包" [ref=e788] [cursor=pointer]
+          - tabpanel [ref=e789]:
+            - generic [ref=e790]:
+              - generic [ref=e793]:
+                - heading "免费" [level=3] [ref=e795]
+                - generic [ref=e796]: 免费
+                - paragraph [ref=e797]: 非常适合入门
+                - button "开始使用" [ref=e798] [cursor=pointer]
+                - list [ref=e799]:
+                  - listitem [ref=e800]:
+                    - img [ref=e801]
+                    - generic [ref=e803]: 每日 10 积分
+                  - listitem [ref=e804]:
+                    - img [ref=e805]
+                    - generic [ref=e807]:
+                      - text: 每日约 10 次快速模式图像生成
+                      - img [ref=e808] [cursor=pointer]
+                  - listitem [ref=e811]:
+                    - img [ref=e812]
+                    - generic [ref=e814]:
+                      - text: 无限基础版生成 (慢速队列)
+                      - img [ref=e815] [cursor=pointer]
+                  - listitem [ref=e818]:
+                    - img [ref=e819]
+                    - generic [ref=e821]: 基础功能
+                  - listitem [ref=e822]:
+                    - img [ref=e823]
+                    - generic [ref=e825]: 社区支持
+                  - listitem [ref=e826]:
+                    - img [ref=e827]
+                    - generic [ref=e829]:
+                      - text: 每日约 2 个 Raphael Video 视频
+                      - img [ref=e830] [cursor=pointer]
+                  - listitem [ref=e833]:
+                    - img [ref=e834]
+                    - generic [ref=e837]: 图像包含水印 (免费套餐)。升级以移除。
+                  - listitem [ref=e838]:
+                    - img [ref=e839]
+                    - generic [ref=e842]: 仅限基础模型 (无 Pro/Max/Ultra 访问)
+              - generic [ref=e845]:
+                - heading "专业版" [level=3] [ref=e847]
+                - generic [ref=e848]:
+                  - generic [ref=e849]: $10
+                  - text: /month
+                  - generic [ref=e850]: 按年计费 · $120/year
+                - paragraph
+                - button "升级到专业版" [ref=e851] [cursor=pointer]
+                - list [ref=e852]:
+                  - listitem [ref=e853]:
+                    - img [ref=e854]
+                    - generic [ref=e856]: 每月 2,000 积分
+                  - listitem [ref=e857]:
+                    - img [ref=e858]
+                    - generic [ref=e861]:
+                      - text: 支持所有积分模型（
+                      - generic [ref=e864]: Nano Banana
+                      - text: 、
+                      - generic [ref=e867]: GPT Image
+                      - text: 、
+                      - generic [ref=e870]: Seedream
+                      - text: 、
+                      - generic [ref=e873]: Seedance
+                      - text: 、
+                      - generic [ref=e876]: Kling
+                      - text: 、
+                      - generic [ref=e879]: Veo
+                      - text: ）
+                  - listitem [ref=e880]:
+                    - img [ref=e881]
+                    - generic [ref=e883]:
+                      - text: 每月约 2,000 次快速模式图像生成
+                      - img [ref=e884] [cursor=pointer]
+                  - listitem [ref=e887]:
+                    - img [ref=e888]
+                    - generic [ref=e890]:
+                      - text: 每月约 400 个 Raphael Video 视频
+                      - img [ref=e891] [cursor=pointer]
+                  - listitem [ref=e894]:
+                    - img [ref=e895]
+                    - generic [ref=e897]:
+                      - text: 无限基础版生成
+                      - img [ref=e898] [cursor=pointer]
+                  - listitem [ref=e901]:
+                    - img [ref=e902]
+                    - generic [ref=e904]:
+                      - text: 优先队列
+                      - img [ref=e905] [cursor=pointer]
+                  - listitem [ref=e908]:
+                    - img [ref=e909]
+                    - generic [ref=e911]:
+                      - text: 解锁 Raphael Pro (1K)
+                      - img [ref=e912] [cursor=pointer]
+                  - listitem [ref=e915]:
+                    - img [ref=e916]
+                    - generic [ref=e918]: 无广告
+                  - listitem [ref=e919]:
+                    - img [ref=e920]
+                    - generic [ref=e922]: 无水印
+                  - listitem [ref=e923]:
+                    - img [ref=e924]
+                    - generic [ref=e926]:
+                      - text: 快速 AI 照片编辑器
+                      - img [ref=e927] [cursor=pointer]
+              - generic [ref=e932]:
+                - generic [ref=e933]:
+                  - heading "旗舰版" [level=3] [ref=e934]
+                  - generic [ref=e935]: 最具价值
+                  - generic [ref=e936]: 节省 50%
+                - generic [ref=e937]:
+                  - generic [ref=e938]: $20
+                  - text: /month
+                  - generic [ref=e939]: 按年计费 · $240/year
+                - paragraph
+                - button "升级到旗舰版" [ref=e940] [cursor=pointer]
+                - list [ref=e941]:
+                  - listitem [ref=e942]:
+                    - img [ref=e943]
+                    - generic [ref=e945]: 每月 5,000 积分
+                  - listitem [ref=e946]:
+                    - img [ref=e947]
+                    - generic [ref=e950]:
+                      - text: 支持所有积分模型（
+                      - generic [ref=e953]: Nano Banana
+                      - text: 、
+                      - generic [ref=e956]: GPT Image
+                      - text: 、
+                      - generic [ref=e959]: Seedream
+                      - text: 、
+                      - generic [ref=e962]: Seedance
+                      - text: 、
+                      - generic [ref=e965]: Kling
+                      - text: 、
+                      - generic [ref=e968]: Veo
+                      - text: ）
+                  - listitem [ref=e969]:
+                    - img [ref=e970]
+                    - generic [ref=e972]:
+                      - text: 每月约 5,000 次快速模式图像生成
+                      - img [ref=e973] [cursor=pointer]
+                  - listitem [ref=e976]:
+                    - img [ref=e977]
+                    - generic [ref=e979]:
+                      - text: 每月约 1,000 个 Raphael Video 视频
+                      - img [ref=e980] [cursor=pointer]
+                  - listitem [ref=e983]:
+                    - img [ref=e984]
+                    - generic [ref=e986]:
+                      - text: 无限基础版生成
+                      - img [ref=e987] [cursor=pointer]
+                  - listitem [ref=e990]:
+                    - img [ref=e991]
+                    - generic [ref=e993]:
+                      - text: 最高优先级队列
+                      - img [ref=e994] [cursor=pointer]
+                  - listitem [ref=e997]:
+                    - img [ref=e998]
+                    - generic [ref=e1000]:
+                      - text: 解锁 Raphael Pro (1K)
+                      - img [ref=e1001] [cursor=pointer]
+                  - listitem [ref=e1004]:
+                    - img [ref=e1005]
+                    - generic [ref=e1007]:
+                      - text: 完全隐私
+                      - img [ref=e1008] [cursor=pointer]
+                  - listitem [ref=e1011]:
+                    - img [ref=e1012]
+                    - generic [ref=e1014]: 无广告
+                  - listitem [ref=e1015]:
+                    - img [ref=e1016]
+                    - generic [ref=e1018]: 无水印
+                  - listitem [ref=e1019]:
+                    - img [ref=e1020]
+                    - generic [ref=e1022]:
+                      - text: 即时 AI 照片编辑器
+                      - img [ref=e1023] [cursor=pointer]
+                  - listitem [ref=e1026]:
+                    - img [ref=e1027]
+                    - generic [ref=e1029]:
+                      - text: 高级精炼功能
+                      - img [ref=e1030] [cursor=pointer]
+                  - listitem [ref=e1033]:
+                    - img [ref=e1034]
+                    - generic [ref=e1036]:
+                      - text: 抢先体验新功能
+                      - img [ref=e1037] [cursor=pointer]
+      - generic [ref=e1041]:
+        - generic [ref=e1042]:
+          - generic [ref=e1043]: 常见问题
+          - heading "常见问题" [level=2] [ref=e1044]
+          - paragraph [ref=e1045]:
+            - text: 还有其他问题吗？请通过
+            - generic [ref=e1046]: support@raphael.app
+            - text: 联系我们
+        - generic [ref=e1047]:
+          - generic [ref=e1048]:
+            - generic [ref=e1049]: "1"
+            - generic [ref=e1050]:
+              - heading "什么是 Raphael AI 及其工作原理？" [level=3] [ref=e1052]
+              - paragraph [ref=e1053]: Raphael AI 图像生成器是一款完全免费的 AI 图像生成器，内置智能多模型路由系统。您无需注册，也没有生成次数限制，只需输入文字描述即可生成高质量图像。
+          - generic [ref=e1054]:
+            - generic [ref=e1055]: "2"
+            - generic [ref=e1056]:
+              - heading "Raphael AI 真的免费使用吗？" [level=3] [ref=e1058]
+              - paragraph [ref=e1059]: 是的，Raphael AI 图像生成器完全免费使用！我们致力于成为世界上最大、最强大的免费 AI 图像生成器。没有隐藏费用、无需信用卡，也没有生成次数限制。
+          - generic [ref=e1060]:
+            - generic [ref=e1061]: "3"
+            - generic [ref=e1062]:
+              - heading "Raphael AI 与其他 AI 图像生成器有何不同？" [level=3] [ref=e1064]
+              - paragraph [ref=e1065]: Raphael AI 图像生成器提供无生成次数限制的免费多模型智能路由能力。我们提供卓越的图像质量、快速的生成速度和完整的隐私保护，且无需任何费用或注册要求。
+          - generic [ref=e1066]:
+            - generic [ref=e1067]: "4"
+            - generic [ref=e1068]:
+              - heading "我需要创建账户才能使用 Raphael AI 吗？" [level=3] [ref=e1070]
+              - paragraph [ref=e1071]: 无需账户——Raphael AI 图像生成器允许您访问 raphael.app 并立即开始生成图像。我们相信让每个人都能无障碍地使用人工智能。
+          - generic [ref=e1072]:
+            - generic [ref=e1073]: "5"
+            - generic [ref=e1074]:
+              - heading "我可以使用 Raphael AI 创建哪些类型的图像？" [level=3] [ref=e1076]
+              - paragraph [ref=e1077]: Raphael AI 图像生成器允许您创建各种图像，包括逼真的场景、艺术插图、数字艺术、动漫风格图像等。我们的智能路由器会为每个提示选择最佳模型，以处理复杂的指令并提供多样化的视觉风格。
+          - generic [ref=e1078]:
+            - generic [ref=e1079]: "6"
+            - generic [ref=e1080]:
+              - heading "Raphael AI 如何保护我的隐私？" [level=3] [ref=e1082]
+              - paragraph [ref=e1083]: 我们采用最小化数据收集原则：未登录用户的请求通常仅作临时处理；登录后仅保存提供账户、历史记录、订阅和安全能力所必需的信息。
+          - generic [ref=e1084]:
+            - generic [ref=e1085]: "7"
+            - generic [ref=e1086]:
+              - heading "Raphael 的自研模型由什么支持？" [level=3] [ref=e1088]
+              - paragraph [ref=e1089]: Raphael 的自研图片模型由 Seedream 5.0 提供支持，Raphael 的自研视频模型由 Seedance 2.0 提供支持。此外，Raphael 也支持业内其他先进的画图模型，例如 Nano Banana。
+          - generic [ref=e1090]:
+            - generic [ref=e1091]: "8"
+            - generic [ref=e1092]:
+              - heading "使用 Raphael AI 有什么限制吗？" [level=3] [ref=e1094]
+              - paragraph [ref=e1095]: 虽然 Raphael AI 是免费的，且没有生成次数限制，但我们维护标准的内容准则以确保适当使用。该平台目前专为网络使用而设计，计划在未来推出移动应用程序。
+          - generic [ref=e1096]:
+            - generic [ref=e1097]: "9"
+            - generic [ref=e1098]:
+              - heading "我可以使用生成的图像进行商业用途吗？" [level=3] [ref=e1100]
+              - paragraph [ref=e1101]: 是的，您拥有使用 Raphael AI 生成的图像的权利。您可以将它们用于个人和商业目的，使其成为创作者和企业的理想选择。
+          - generic [ref=e1102]:
+            - generic [ref=e1103]: "10"
+            - generic [ref=e1104]:
+              - heading "Raphael AI 是否支持移动设备？" [level=3] [ref=e1106]
+              - paragraph [ref=e1107]: 目前，您可以通过我们的网站 raphael.app 访问 Raphael AI，该网站在移动浏览器上运行良好。我们正在积极开发专用的移动应用程序，以便尽快提供更好的体验。
+          - generic [ref=e1108]:
+            - generic [ref=e1109]: "11"
+            - generic [ref=e1110]:
+              - heading "我如何提供反馈或报告问题？" [level=3] [ref=e1112]
+              - paragraph [ref=e1113]:
+                - text: 我们欢迎您的反馈！您可以通过
+                - generic [ref=e1114]: support@raphael.app
+                - text: 联系我们的支持团队。您的意见有助于我们改进和维护最好的免费 AI 图像生成服务。
+          - generic [ref=e1115]:
+            - generic [ref=e1116]: "12"
+            - generic [ref=e1117]:
+              - heading "Raphael AI 的下一步是什么？" [level=3] [ref=e1119]
+              - paragraph [ref=e1120]: 我们通过对 AI 模型和用户界面的定期更新不断改进我们的服务。未来计划包括移动应用程序和其他创意功能，同时保持我们完全免费的承诺。
+          - generic [ref=e1121]:
+            - generic [ref=e1122]: "13"
+            - generic [ref=e1123]:
+              - heading "什么是免费的 AI 图像生成器？" [level=3] [ref=e1125]
+              - paragraph [ref=e1126]: 免费的 AI 图像生成器是一种把文字提示词转换成图片且不收取费用的工具。Raphael AI 让你直接在浏览器中生成图片，无需注册，也无需信用卡。更重要的是，登录用户在 Basic 模式（不含 Fast Mode）下可以真正无限免费生成，只需短暂排队。你也可以使用每日免费 credits 跳过队列，或解锁更高分辨率的模型。
+          - generic [ref=e1127]:
+            - generic [ref=e1128]: "14"
+            - generic [ref=e1129]:
+              - heading "AI 如何根据文字生成图片？" [level=3] [ref=e1131]
+              - paragraph [ref=e1132]: 你输入一段描述，也就是提示词，AI 模型会理解其中的词语、对象、风格和构图要求，并渲染出匹配的图像。Raphael AI 会把提示词路由到 Raphael Basic、Seedream、Nano Banana 等模型，并在几秒内返回结果。提示词越具体，结果越接近你的想法。
+          - generic [ref=e1133]:
+            - generic [ref=e1134]: "15"
+            - generic [ref=e1135]:
+              - heading "使用 AI 生成图片合法吗？" [level=3] [ref=e1137]
+              - paragraph [ref=e1138]: 是的，在大多数国家和地区，使用 AI 生成图片是合法的。使用 Raphael AI 时，你拥有自己创建图片的权利，并可以用于个人项目。商业用途适用于付费套餐，并受我们的服务条款和适用法律约束。具体使用场景仍建议检查当地法规。
+          - generic [ref=e1139]:
+            - generic [ref=e1140]: "16"
+            - generic [ref=e1141]:
+              - heading "Raphael AI 安全并保护隐私吗？" [level=3] [ref=e1143]
+              - paragraph [ref=e1144]: 是的。我们采用最小化数据收集原则：未登录用户的请求通常只会临时处理，不会保存到历史记录。登录用户只保留账户、历史记录和安全所必需的数据。我们不会出售你的提示词或图片。
+          - generic [ref=e1145]:
+            - generic [ref=e1146]: "17"
+            - generic [ref=e1147]:
+              - heading "我可以将 AI 生成图片用于商业用途吗？" [level=3] [ref=e1149]
+              - paragraph [ref=e1150]: 付费套餐用户可以根据我们的服务条款和适用法律，将生成图片用于商业用途。免费用户可以将图片用于个人和其他非商业用途。你保留对自己生成图片的所有权。
+          - generic [ref=e1151]:
+            - generic [ref=e1152]: "18"
+            - generic [ref=e1153]:
+              - heading "最好的免费 AI 图像生成器是什么？" [level=3] [ref=e1155]
+              - paragraph [ref=e1156]: 最好的免费 AI 图像生成器应同时具备图像质量、速度和无付费墙门槛。Raphael AI 是一个真正免费的选择：Raphael Basic 模型消耗 0 credits，开始使用无需注册；登录后，Basic 模式（不含 Fast Mode）提供无限免费生成。每日免费 credits 和付费套餐可帮助你跳过队列，并使用 Seedream、Nano Banana 等模型获得更清晰的结果。
+          - generic [ref=e1157]:
+            - generic [ref=e1158]: "19"
+            - generic [ref=e1159]:
+              - heading "什么是无门槛 AI 图像生成器？" [level=3] [ref=e1161]
+              - paragraph [ref=e1162]: 无门槛 AI 图像生成器会从基础体验中移除强制注册、信用卡和生成次数限制等障碍。使用 Raphael AI，你可以直接在浏览器开始生成，无需账户，也无需信用卡。登录后，Basic 模式（不含 Fast Mode）提供无限免费生成；如果想跳过队列或使用更高分辨率模型，可以使用每日 credits 或付费套餐。我们仍会执行标准内容规范，确保安全和合法使用。
+          - generic [ref=e1163]:
+            - generic [ref=e1164]: "20"
+            - generic [ref=e1165]:
+              - heading "“无门槛”是否意味着图像质量更低？" [level=3] [ref=e1167]
+              - paragraph [ref=e1168]: 不是。更少的使用障碍并不代表输出质量更弱。Raphael AI 的免费 Basic 模型生成速度很快，登录用户还可以切换到 Seedream 4.5/5.0（最高 2K）和 Nano Banana Pro 等更高分辨率模型，以获得更丰富的细节。你可以根据任务选择免费或付费模型。
+  - generic [ref=e1171]:
+    - generic [ref=e1172]:
+      - generic [ref=e1174]:
+        - generic [ref=e1175]:
+          - img "Raphael AI" [ref=e1176]
+          - paragraph [ref=e1177]: Raphael AI
+        - paragraph [ref=e1178]: Raphael AI 图像生成器：免费无限的 AI 图像生成器，聚合 Nano Banana 2 / Pro、Qwen-Image 和 Seedream 5.0 等顶尖模型。无需注册，无次数限制。
+      - generic [ref=e1179]:
+        - generic [ref=e1180]:
+          - generic [ref=e1181]: 关于
+          - list [ref=e1182]:
+            - listitem [ref=e1183]:
+              - link "功能" [ref=e1184] [cursor=pointer]:
+                - /url: /zh#feature
+            - listitem [ref=e1185]:
+              - link "定价" [ref=e1186] [cursor=pointer]:
+                - /url: /zh/pricing
+            - listitem [ref=e1187]:
+              - link "合作伙伴" [ref=e1188] [cursor=pointer]:
+                - /url: /partners
+        - generic [ref=e1189]:
+          - generic [ref=e1190]: 工具
+          - list [ref=e1191]:
+            - listitem [ref=e1192]:
+              - link "AI 图像编辑器" [ref=e1193] [cursor=pointer]:
+                - /url: /zh/ai-image-editor
+            - listitem [ref=e1194]:
+              - link "扩展图像" [ref=e1195] [cursor=pointer]:
+                - /url: /zh/uncrop
+            - listitem [ref=e1196]:
+              - link "移除背景" [ref=e1197] [cursor=pointer]:
+                - /url: /zh/background-remover
+            - listitem [ref=e1198]:
+              - link "文生图" [ref=e1199] [cursor=pointer]:
+                - /url: /zh/text-to-image
+            - listitem [ref=e1200]:
+              - link "图生图" [ref=e1201] [cursor=pointer]:
+                - /url: /zh/image-to-image
+            - listitem [ref=e1202]:
+              - link "图片模板" [ref=e1203] [cursor=pointer]:
+                - /url: /zh/image-templates
+            - listitem [ref=e1204]:
+              - link "文生视频" [ref=e1205] [cursor=pointer]:
+                - /url: /zh/text-to-video
+            - listitem [ref=e1206]:
+              - link "图生视频" [ref=e1207] [cursor=pointer]:
+                - /url: /zh/image-to-video
+            - listitem [ref=e1208]:
+              - link "AI 对口型视频" [ref=e1209] [cursor=pointer]:
+                - /url: https://fameo.ai
+    - generic [ref=e1210]:
+      - paragraph [ref=e1211]: © 2025 • Raphael AI 版权所有。
+      - list [ref=e1212]:
+        - listitem [ref=e1213]:
+          - link "隐私政策" [ref=e1214] [cursor=pointer]:
+            - /url: /privacy
+        - listitem [ref=e1215]:
+          - link "服务条款" [ref=e1216] [cursor=pointer]:
+            - /url: /tos
+  - region "Notifications alt+T"
+  - alert [ref=e1217]
