@@ -1,0 +1,62 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link "Suno Logo" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Suno Logo" [ref=e7]
+      - button "Collapse sidebar" [ref=e13] [cursor=pointer]:
+        - img [ref=e15]
+      - status "Loading sidebar navigation" [ref=e18]
+    - generic [ref=e124]:
+      - generic [ref=e126]:
+        - 'link "Playbar: Title for Gonks in the Garage" [ref=e127] [cursor=pointer]':
+          - /url: /song/0853634c-f952-48c4-aa3c-6d8d02ffdc9f
+          - 'img "Playbar: Cover image for Gonks in the Garage" [ref=e128]'
+        - generic [ref=e129]:
+          - 'link "Playbar: Title for Gonks in the Garage" [ref=e134] [cursor=pointer]':
+            - /url: /song/0853634c-f952-48c4-aa3c-6d8d02ffdc9f
+            - text: Gonks in the Garage
+          - 'link "Playbar: Artist for Gonks in the Garage" [ref=e135] [cursor=pointer]':
+            - /url: /@audibleinspiration
+            - generic [ref=e136]: Audible Inspiration
+      - generic [ref=e138]:
+        - generic [ref=e139]:
+          - 'button "Playbar: Toggle shuffle button" [ref=e140] [cursor=pointer]':
+            - img [ref=e142]
+          - 'button "Playbar: Previous Song button" [ref=e145] [cursor=pointer]':
+            - img [ref=e147]
+          - 'button "Playbar: Play button" [ref=e150] [cursor=pointer]':
+            - img [ref=e152]
+          - 'button "Playbar: Next Song button" [ref=e155] [cursor=pointer]':
+            - img [ref=e157]
+          - 'button "Playbar: Toggle repeat button" [ref=e160] [cursor=pointer]':
+            - img [ref=e162]
+        - generic [ref=e166]:
+          - generic [ref=e167]: 0:00
+          - slider "Playback progress" [disabled] [ref=e172]: "0"
+          - generic [ref=e173]: 3:34
+      - generic [ref=e175]:
+        - 'button "Playbar: Song Queue" [ref=e176] [cursor=pointer]':
+          - img [ref=e178]
+        - generic [ref=e181]:
+          - generic [ref=e182]:
+            - 'button "Playbar: Like" [ref=e183] [cursor=pointer]':
+              - img [ref=e185]
+            - 'button "Playbar: Dislike" [ref=e188] [cursor=pointer]':
+              - img [ref=e190]
+          - 'link "Playbar: Comment" [ref=e193] [cursor=pointer]':
+            - /url: /song/0853634c-f952-48c4-aa3c-6d8d02ffdc9f?show_comments=true
+            - img [ref=e195]
+          - 'button "Playbar: Share" [ref=e198] [cursor=pointer]':
+            - img [ref=e200]
+          - button "More menu contents" [ref=e205] [cursor=pointer]:
+            - img [ref=e207]
+        - 'generic "Playbar: Volume Slider" [ref=e210] [cursor=pointer]':
+          - img [ref=e212]
+        - 'button "Playbar: Toggle song details panel" [ref=e217] [cursor=pointer]':
+          - img [ref=e219]
+  - alert [ref=e222]
+  - generic:
+    - region "Bottom notifications"
+  - generic:
+    - region "Top notifications"

@@ -1,0 +1,3 @@
+[    1274ms] [ERROR] Failed to load resource: the server responded with a status of 500 (OK) @ http://www.kuwo.cn/play_detail/463374600:0
+[    5910ms] [LOG] replaceDownloadUrl {data: Object, status: 200, statusText: OK, headers: Object, config: Object} @ https://h5s.kuwo.cn/www/kw-www/929c55c.js:0
+[    6336ms] [LOG] replaceDownloadUrl {data: Object, status: 200, statusText: OK, headers: Object, config: Object} @ https://h5s.kuwo.cn/www/kw-www/929c55c.js:0

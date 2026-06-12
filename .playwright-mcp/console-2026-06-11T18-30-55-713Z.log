@@ -102,3 +102,4 @@
 [    1143ms] [INFO] %c%s line-height: 30px; color: #FF6699 bili-fe-fp: 1.1.4 @ https://s1.hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js:0
 [   45110ms] [WARNING] WebSocket connection to 'wss://broadcast.chat.bilibili.com:7826/sub' failed: WebSocket is closed before the connection is established. @ https://s1.hdslb.com/bfs/seed/crayon/im/message-notify.js:0
 [   55126ms] [WARNING] WebSocket connection to 'wss://broadcast.chat.bilibili.com:7826/sub' failed: WebSocket is closed before the connection is established. @ https://s1.hdslb.com/bfs/seed/crayon/im/message-notify.js:0
+[ 2689873ms] [WARNING] WebSocket connection to 'wss://broadcast.chat.bilibili.com:7826/sub' failed: WebSocket is closed before the connection is established. @ https://s1.hdslb.com/bfs/seed/crayon/im/message-notify.js:0

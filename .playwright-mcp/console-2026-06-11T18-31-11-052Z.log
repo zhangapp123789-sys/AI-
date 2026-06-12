@@ -9,3 +9,4 @@
 [  783868ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://api.bilibili.com/x/player/online/total?aid=602682860&cid=822750055&ts=59373449:0
 [  783870ms] Uncaught (in promise) AxiosError: Network Error
     at u.onerror (https://s1.hdslb.com/bfs/static/player/main/core.d2f850b3.js:219:2923)
+[ 2674533ms] [WARNING] WebSocket connection to 'wss://broadcast.chat.bilibili.com:7826/sub' failed: WebSocket is closed before the connection is established. @ https://s1.hdslb.com/bfs/seed/crayon/im/message-notify.js:0

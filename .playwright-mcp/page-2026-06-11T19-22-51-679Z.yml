@@ -1,0 +1,158 @@
+- generic [ref=e4]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - link [ref=e9] [cursor=pointer]:
+        - /url: /
+      - list [ref=e10]:
+        - listitem [ref=e11]:
+          - link "发现音乐" [ref=e12] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e13]:
+          - link "下载客户端" [ref=e14] [cursor=pointer]:
+            - /url: /down
+        - listitem [ref=e15]:
+          - link "音乐现场" [ref=e16] [cursor=pointer]:
+            - /url: http://x.kuwo.cn/KuwoLive/OpenLiveRoomLinkForKw?from=1001008053
+        - listitem [ref=e17]:
+          - link "VIP会员" [ref=e18] [cursor=pointer]:
+            - /url: http://vip1.kuwo.cn/vip/added/vip_2016/index.jsp?from=1
+        - listitem [ref=e19]:
+          - link "更多 " [ref=e20] [cursor=pointer]:
+            - /url: javascript:;
+            - text: 更多
+            - generic [ref=e21]: 
+            - text: 
+    - generic [ref=e22]:
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - generic [ref=e26] [cursor=pointer]: 
+          - textbox "搜索音乐/MV/歌单/歌手" [ref=e27]
+        - generic [ref=e28]:
+          - paragraph [ref=e29]: 大家都在搜
+          - list
+      - generic [ref=e30]: 登录 / 注册
+  - generic [ref=e33]:
+    - paragraph [ref=e34]: 抱歉，暂无相关数据，重新刷新页面试试吧
+    - paragraph [ref=e35]:
+      - link "刷新页面" [ref=e36] [cursor=pointer]:
+        - /url: javascript:;
+  - generic [ref=e37]:
+    - generic [ref=e39]:
+      - generic [ref=e40]:
+        - paragraph [ref=e41]: 下载酷我音乐客户端
+        - paragraph [ref=e42]: 协议与声明
+        - paragraph [ref=e43]: 其它
+      - generic [ref=e44]:
+        - list [ref=e46]:
+          - listitem [ref=e47]:
+            - link "车机版" [ref=e48] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=e50]: 车机版
+          - listitem [ref=e51]:
+            - link " Android" [ref=e52] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=e53]: 
+              - generic [ref=e54]: Android
+          - listitem [ref=e55]:
+            - link " iPhone版" [ref=e56] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=e57]: 
+              - generic [ref=e58]: iPhone版
+          - listitem [ref=e59]:
+            - link " PC版" [ref=e60] [cursor=pointer]:
+              - /url: ""
+              - generic [ref=e61]: 
+              - generic [ref=e62]: PC版
+        - generic [ref=e63]:
+          - paragraph [ref=e64]:
+            - link "用户服务协议" [ref=e65] [cursor=pointer]:
+              - /url: https://h5app.kuwo.cn/m/9c0092e0/kwpcuseragreement.html
+            - link "儿童隐私政策" [ref=e66] [cursor=pointer]:
+              - /url: https://h5app.kuwo.cn/m/9c0092e0/kwpcchildrenprivacy.html
+          - paragraph [ref=e67]:
+            - link "免责声明" [ref=e68] [cursor=pointer]:
+              - /url: https://h5app.kuwo.cn/m/9c0092e0/kwpcmzsm.html
+            - link "隐私政策" [ref=e69] [cursor=pointer]:
+              - /url: https://h5app.kuwo.cn/m/9c0092e0/privacyPolicypc.html
+          - paragraph [ref=e70]:
+            - link "用户权限" [ref=e71] [cursor=pointer]:
+              - /url: https://h5app.kuwo.cn/m/9c0092e0/authorityDetails.html
+            - link "权利声明" [ref=e72] [cursor=pointer]:
+              - /url: https://h5app.kuwo.cn/m/9c0092e0/kwpcqlsm.html
+        - generic [ref=e73]:
+          - paragraph [ref=e74]:
+            - link "联系我们" [ref=e75] [cursor=pointer]:
+              - /url: https://h5app.kuwo.cn/m/9c0092e0/kwpclxfs.html
+          - paragraph [ref=e76]:
+            - link "诚聘英才" [ref=e77] [cursor=pointer]:
+              - /url: https://join.tencentmusic.com/
+          - paragraph [ref=e78]:
+            - link "腾讯音乐" [ref=e79] [cursor=pointer]:
+              - /url: https://www.tencentmusic.com
+    - generic [ref=e81]:
+      - paragraph [ref=e82]:
+        - text: 北京酷我科技有限公司版权所有 丨 网络文化经营许可证：
+        - link "京网文〔2021〕2071-554号" [ref=e83] [cursor=pointer]:
+          - /url: https://h5static.kuwo.cn/www/kw-www/kuwoNetworkCultureBusinessLicense20212071554.pdf
+        - text: 丨 丨 增值电信业务经营许可证：
+        - link "京ICP证060261号" [ref=e84] [cursor=pointer]:
+          - /url: https://kwimg4.kuwo.cn/star/upload/24/5/1704181552449_.pdf
+        - text: 丨 出版物经营许可证：
+        - link "新出发京零字第东250009号" [ref=e85] [cursor=pointer]:
+          - /url: https://h5static.kuwo.cn/www/kw-www/KuwoPublicationBusinessLicense.jpg
+      - paragraph [ref=e86]:
+        - link "广播电视节目制作经营许可证京字第02037号" [ref=e87] [cursor=pointer]:
+          - /url: https://h5static.kuwo.cn/www/kw-www/kuwoRadioandTelevisionProgramProductionLicense.pdf
+        - text: 丨
+        - link "营业性演出许可证：京演（机构）〔2012〕1574号" [ref=e88] [cursor=pointer]:
+          - /url: https://h5static.kuwo.cn/www/kw-www/kuwoBusinessPerformanceLicense1574.pdf
+        - text: 丨
+        - link "京公网安备11010102006742号" [ref=e89] [cursor=pointer]:
+          - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010102006742
+        - text: 丨
+        - link "营业执照" [ref=e90] [cursor=pointer]:
+          - /url: https://h5static.kuwo.cn/www/kw-www/KuwoBusinessLicense.pdf
+        - text: 丨
+        - link "京ICP备09014827号" [ref=e91] [cursor=pointer]:
+          - /url: http://beian.miit.gov.cn/state/outPortal/loginPortal.action
+        - text: 丨
+        - link "互联网宗教信息服务许可证：京（2023）0000013" [ref=e92] [cursor=pointer]:
+          - /url: https://kwimg1.kuwo.cn/star/upload/49/26/1675153691986_.jpeg
+      - paragraph [ref=e93]:
+        - text: 应用版本：10.7.0.0 丨 开发者：北京酷我科技有限公司 丨 举报电话：0755-33949046丨 举报邮箱：TME_kuwo_Support@tencentmusic.com 丨 未成年人监督举报入口 丨
+        - link "网上有害信息举报专区" [ref=e94] [cursor=pointer]:
+          - /url: https://www.12377.cn
+    - text: 
+  - generic [ref=e97]:
+    - generic [ref=e99] [cursor=pointer]: 
+    - generic [ref=e100]:
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - link [ref=e104] [cursor=pointer]:
+            - /url: /play_detail/undefined
+          - generic [ref=e106]:
+            - generic [ref=e108]: 酷我音乐-陪着我·不要停
+            - generic [ref=e109]: 00:00/00:00
+        - generic [ref=e113]:
+          - generic "上一首" [ref=e114] [cursor=pointer]:
+            - generic [ref=e115]: 
+          - generic "播放" [ref=e116] [cursor=pointer]:
+            - generic [ref=e117]: 
+          - generic "下一首" [ref=e118] [cursor=pointer]:
+            - generic [ref=e119]: 
+        - generic [ref=e120]:
+          - generic "收藏歌曲" [ref=e121] [cursor=pointer]: 
+          - generic "下载歌曲" [ref=e122] [cursor=pointer]: 
+          - generic "评论" [ref=e123] [cursor=pointer]: 
+          - generic [ref=e124]:
+            - generic "循环播放" [ref=e125] [cursor=pointer]: 
+            - text:   
+          - generic "歌曲列表" [ref=e127] [cursor=pointer]: 
+          - generic [ref=e128]:
+            - generic "品质" [ref=e129]: 高品
+            - generic [ref=e130] [cursor=pointer]: 
+          - text: 
+          - generic "音量" [ref=e131] [cursor=pointer]: 
+      - text:   
+  - generic:
+    - generic:      
